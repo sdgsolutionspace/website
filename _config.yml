@@ -17,8 +17,8 @@ title: SDG Solution Space
 email: hello@sdgsolutionspace.org
 description: >- # this means to ignore newlines until "baseurl:"
   This is the website of SDG Solution Space
-baseurl: "/website" # the subpath of your site, e.g. /blog
-url: "https://sdgsolutionspace.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sdgsolutionspace.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sdgsolspace
 github_username:  sdgsolutionspace
 
