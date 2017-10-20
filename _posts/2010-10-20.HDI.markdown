@@ -1,4 +1,13 @@
-Human Development Index (HDI).
+---
+layout: post
+title:  "Human Development Index (HDI)."
+date:   2017-10-05 16:03:04 +0200
+categories: jekyll update
+---
+
+Authors: **Loukas G., Katerina Polyakova**
+
+
 
 Jaya Krishnakumar has a Ph.D. in Econometrics and Statistics and is a Professor of Econometrics at the University of Geneva.
 She also regularly serves as an external expert for evaluating research proposals and projects and advises researchers at international 
