@@ -5,23 +5,27 @@ date:   2017-10-20 16:03:04 +0200
 categories: jekyll update
 ---
 
-Authors: *Dear all*
+Authors: **Katerina Polyakova**
 
 
-This afternoon, we were given a lecture by Prof Anthony Lehmann on Ecosystem Services. it is the subject of his current research: he’s concentrating on a spatially explicit approach with Ecosystem Service assessment.
+<h1>Finding a place to live in Geneva.</h1>
 
-One thing we realized after Mr. Lehmanns presentation which made us think, was the different way he looked at environmental issues. Studying about the 17 sustainable development goals trained us to see things from a humanitarian perspective, whereas a biologist like him, sees different priorities, and might have different approaches. The lecture on ecosystem services taught us that ecosystems can serve human society and the Sustainable Development Goals greatly when they are being well conserved and treated, opposed to the largely spread idea that nature is an unlimited resource made to be exploited.
+*After reading all stories of struggle about housing in Geneva, I thought it was nice to give some advices for the future student generations.*
 
-For example, we were shown different ways of representing the links between environment, society and economy as the three main factors relevant to sustainable development, as shown in the image underneath. While the concept in transparent represents the visualization we knew from previous lessons.
+<h2>First Advise:</h2>
 
-<br>
-<center><img src="/images/blogpost_ecosystems.png" alt=""  width="80%"></center>
-<br>
-<br>
+Start to look for a place to stay in May! Indeed, the more you wait, the less chances you will have to find a good place to live.
 
-A conceptual tool we were introduced to by Prof Lehmann was the The water–energy–food nexus. The Nexus approach is to identify potential linkages with sustainable livelihoods theory and practice, to deepen our understanding of the interrelated dynamics between human populations and the natural environment. The outcome is an integrated framework with the capacity to measure and monitor environmental livelihood security of whole systems by accounting for the water, energy and food requisites for livelihoods at multiple spatial scales and institutional levels.
+<h2>Second advice:</h2>
+Make a plan. Putting your ideas together on paper and classify them, will calm you and give you more ideas. For my part, I took all the possible student houses information and made an Excel sheet with their names, numbers, hours to call and their answers.
 
-What we really appreciated from that lecture was the references the teacher gave us: he proposed us to follow different MOOC at home if we were interested to complete our knowledge. The mentioned MOOCs were about: sustainable development; sustainability-social-ecological-systems and ecosystem services. Here you can find the links to those online courses :
--	https://www.coursera.org/learn/sustainabl-development
--	https://www.coursera.org/learn/sustainability-social-ecological-systems
--	https://www.coursera.org/learn/ecosystem-services
+<h2>Third advice:</h2>
+Call all the people on your paper. You need to know where there is a free place. Then, go to visit the ones you are the most interested in.
+
+<h2>Fourth advice:</h2>
+If all student homes say that they are full and have no space for you, don't give up! You still can say that you want to be on a waiting list and you are willing to wait. After they see that you are very motivated, they may take you.
+
+Good Luck !
+
+
+
