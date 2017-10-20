@@ -7,9 +7,6 @@ categories: jekyll update
 
 Authors: **Little Red Riding Hood**
 
-Trallalallalalala
+Test test test
 
 
-Lulululululululululululu
-
-Amen
