@@ -13,7 +13,10 @@ Jaya Krishnakumar has a Ph.D. in Econometrics and Statistics and is a Professor 
 She also regularly serves as an external expert for evaluating research proposals and projects and advises researchers at international 
 organizations such as WTO, ILO, WHO and UNRISD.
 
-
+<br>
+<center><img src="/images/jaya-krishnakumar.jpg" alt=""  width="80%"></center>
+<br>
+<br>
  
 During her lecture, the Professor focused on how to measure well being in a society by taking into account economic growth, 
 social achievements and human development. The scope of this workshop was limited to the human development area.
