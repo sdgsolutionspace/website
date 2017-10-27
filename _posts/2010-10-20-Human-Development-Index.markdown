@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Human Development Index (HDI)."
-date:   2017-10-05 16:03:04 +0200
+date:   2017-10-20 16:03:04 +0200
 categories: jekyll update
 ---
 
-Authors: **Loukas G., Katerina Polyakova**
+Authors: **Loukas Garanis, Katerina Polyakova**
 
 
 
