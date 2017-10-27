@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Indicators Systems."
+title:  "Indicators Systems"
 date:   2017-10-27 12:40:04 +0200
 categories: jekyll update
 ---
