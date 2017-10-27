@@ -14,7 +14,7 @@ She also regularly serves as an external expert for evaluating research proposal
 organizations such as WTO, ILO, WHO and UNRISD.
 
 <br>
-<center><img src="/images/jaya-krishnakumar.jpg" alt=""  width="40%"></center>
+<center><img src="/images/jaya-krishnakumar.jpg" alt=""  width="50%"></center>
 <br>
 
 During her lecture, the Professor focused on how to measure well being in a society by taking into account economic growth, 
