@@ -19,6 +19,7 @@ With Eurasia falling under certain latitudes, it has allowed greater opportuniti
 
 Global changes:
 1.	Systemic eg climate change, CFCs
+
 2.	Cumulative eg overfishing, deforestation
 
 IPAT equation – by Ehrlich and Holdren measures the impact of humans on the environment
