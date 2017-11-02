@@ -18,8 +18,8 @@ There are numerous available methods of expertise that can be used to collect an
 With Eurasia falling under certain latitudes, it has allowed greater opportunities in terms of agriculture and cattle production. This allowed some empires to flourish such as the rice, cotton and tea productions in terms of trade. Furthermore, industrialization brought a shift in the mode of production and improvement in standards of living such as wealth, health and assets but it also accelerated environmental impacts. 
 
 Global changes:
-1)	Systemic eg climate change, CFCs
-2)	Cumulative eg overfishing, deforestation
+1.	Systemic eg climate change, CFCs
+2.	Cumulative eg overfishing, deforestation
 
 IPAT equation – by Ehrlich and Holdren measures the impact of humans on the environment
 
