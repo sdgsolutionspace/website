@@ -14,8 +14,7 @@ In the lecture, Mr Peduzzi explained that Planetary Boundaries are a set of nine
 Climate Change is a known global limit which is being addressed globally in the SDG 13 Climate Action whereby urgent action is required to combat climate change and its impact. Mr Peduzzi highlighted the nine bio-physical limits: Climate, Ocean Acidification, Ocean depletion, Global freshwater use, chemical pollution, land system change, biodiversity loss, biochemical loading B &P, atmospheric pollution - as shown in the image below.
 
 <br>
-<center><img src="/images/planetary-boundaries.png" alt=""  width="60%"></center>
-<br>
+<center><img src="/images/planetary-boundaries.png" alt=""  width="80%"></center>
 <br>
 
 References:
