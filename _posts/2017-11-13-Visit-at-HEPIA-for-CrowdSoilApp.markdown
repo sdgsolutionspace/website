@@ -21,7 +21,7 @@ During this beautiful sunny morning, we examined about 5 parcels from different 
 <center><img src="/images/crowdsoil2.png" alt=""  width="100%"></center>
 <br>
  
-Nicolas Courtois, from AgriGenève, is trying to promote the direct seeding method, under a vegetative cover. With this method, no tilling or plowing is required. During the activity, we learned a lot about the first step in evaluating one’s soil. We also met very interesting people who were willing to help with our project and to provide us with all the information we needed.
+Nicolas Courtois, from AgriGenève, is trying to promote the direct seeding method under vegetative cover. With this method, no tilling or plowing is required. During the activity, we learned a lot about the first step in evaluating one’s soil. We also met very interesting people who were willing to help with our project and to provide us with all the information we needed.
  
 <br>
 <center><img src="/images/crowdsoil3.jpeg" alt=""  width="80%"></center>
