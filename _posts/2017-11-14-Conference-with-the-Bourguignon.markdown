@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conference with Lydia and Claude Bourguignon “Quels sols pour demain?”"
+title:  "Conference with Lydia and Claude Bourguignon: “Quels sols pour demain?”"
 date:   2017-11-14 11:03:04 +0200
 categories: jekyll update
 ---
@@ -14,15 +14,24 @@ Authors: **Océane Schaub, Anne-Pia Marty, Loukas Garanis, Marcelo Veloso**
 We, the team project on the app for measuring the soils had the chance to attend a conference given mainly by Claude and Lydia Bourguignon at the University of Lausanne, the Tuesday 7th of November from 5:30 to 7:30 pm.
 The title of the conference was “Which soils for tomorrow?” and nine speakers were invited: 
 
-<center><i>Lydia and Claude Bourguignon:</i> very famous specialist of the soils, researchers and agronomists,
-<i>Dominique Barjolle:</i> chef of the division of direct payments and agro-ecology in the service of agriculture and viticulture in the Vaud county, 
+<center><i>Lydia and Claude Bourguignon:</i> very famous specialist of the soils, researchers and agronomists
+  <br>
+<i>Dominique Barjolle:</i> chef of the division of direct payments and agro-ecology in the service of agriculture and viticulture in the Vaud county
+  <br>
 <i>Jordan Vacheron:</i> 1st assistant at the faculty of biology and medical school (UNIL)
+  <br>
 <i>Stéphanie Grand:</i> master assistant at the faculty of geo-science and environment (UNIL)
+  <br>
 <i>Jean-Philippe Barilier:</i> farmer and wine grower 
-<i>Raphaël Charles:</i> chef of the FIBL (antenne romande) and from the institute of research in biological agriculture,
-<i>François Füllemann:</i> cantonal paedologist in Vaud. 
+  <br>
+<i>Raphaël Charles:</i> chef of the FIBL (antenne romande) and from the institute of research in biological agriculture
+  <br>
+<i>François Füllemann:</i> cantonal paedologist in Vaud
+  <br>
 <i>Gilbert Ramuz:</i> farmer
+  <br>
 <i>Christophe Pidoux (moderator):</i> director of Agrilogie Grande-Verney in Marcelin.</center>
+<br>
 
 The conference began with a great presentation made by Claude and Lydia Bourguignon on the problems of the agriculture, the erosion, the pollution, the extinction of the humus, the biodiversity in the soils and the clay. They’ve presented few case study and also soils on which they’ve worked with the owners and farmers to give back the biodiversity and fertility of those soils. They’ve presented various technics of land’s regeneration proposed on the bases of knowledge in paedology, biology and other methods in agroecology and organic agriculture.
 The discussion that followed with the guest was rewarding. It was interesting to hear the testimony of different actors: from the researcher in the laboratory or the university, the political actors, the association, to the organic and conventional actors. 
