@@ -13,7 +13,7 @@ So, how will we collect and share this data? Drumroll, please….
 
 Our idea is to create an open source map that would use crowdsourcing to map different dimensions related to MHM. We got some great inspiration for this project from SafeCity, a non-profit company with a platform that crowdsources personal stories of sexual harassment and abuse in public space. We’ve screenshot a picture of their map which you can find below, but we recommend you to check this site out (www.safecity.in) to get a better idea about their phenomenal work.  
 
-<center><img src="/images/Map Safecity India.png" alt=""  width="50%"></center> Map taken from Safecity.in
+<center><img src="/images/Map Safecity India.png" alt=""  width="50%"></center>Map taken from Safecity.in
 <br>
 There are many things that can impede or facilitate access for people across the world. To refresh your memories, here are the aspects we are examining in regards to access:
 1. Product Access: 
@@ -28,8 +28,8 @@ This platform would be useful on three aspects; it would raise awareness on the 
 There are of course still some challenges and questions we still need to deal with in order to make this project successful, such as how to reach people who are illiterate, how to get people to start using the map and where to start setting up the map but we are confident that we will manage! 
 
 <center><img src="/images/Drawing Access MHM.jpg" alt=""  width="50%"></center>
+
 So there it is, now you know what are project actually consists of! The next blog post will be about the process of setting up this map so stay updated! 
  
 All our bleeding love,
-
-The MHM Musketeers
+the MHM Musketeers
