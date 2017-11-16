@@ -28,7 +28,7 @@ Ludo’s experience collecting data in Vienna:
 <center><img src="/images/Ludo in Store.JPG" alt=""  width="30%"></center>
 I started my collection of data with very high and motivated spirit, but to be honest this attitude shifted quite fast ;) I never ever had realized how many kind, size and type of menstrual hygiene could exist! Just to mention an example I spent 1h30 in the second shop I visited filling up my excel table. Plus the shop assistants were not so happy about my “awkward” presence for hours in front of their products and pretended some explanations (in German of course!).. well that’s the moment I became very creative ;).
 
-In fact(17-November-2017) we’re going present our most important findings to our classmates and mentors. We will keep posted.
+In fact(17-November-2017) we’re going present our most important findings to our classmates and mentors. We will keep you posted!
  
 All our bleeding love,
 The MHM Musketeers
