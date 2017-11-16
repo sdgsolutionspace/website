@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post 2: 5 reasons why you should care about good MHM"
+title:  "Post 2 MHM: 5 reasons why you should care about good MHM"
 date:   2017-10-13 12:40:04 +0200
 categories: jekyll update
 ---
