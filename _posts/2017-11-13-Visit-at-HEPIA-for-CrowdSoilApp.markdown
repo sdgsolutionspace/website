@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Demonstration of the Spade Test at HEPIA"
+title:  "CrowdSoil: Demonstration of the Spade Test at HEPIA"
 date:   2017-11-13 16:03:04 +0200
 categories: jekyll update
 ---
