@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Personal experiences mapping"
+title:  "Post 5 MHM: Personal experiences mapping"
 date:   2017-11-10 16:03:04 +0200
 categories: jekyll update lectures
 ---
