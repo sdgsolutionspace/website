@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Encounter with Samuel Emery"
-date:   2017-10-06 16:03:04 +0200
+title:  "CrowdSoil: Encounter with Samuel Emery from (HEPIA)"
+date:   2017-11-15 16:03:04 +0200
 categories: jekyll update lectures
 ---
 
