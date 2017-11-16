@@ -39,4 +39,5 @@ This platform would be useful on three aspects; it would raise awareness on the 
 So there it is, now you know what are project actually consists of! The next blog post will be about the process of setting up this map so stay updated!
  
 All our bleeding love,
-the MHM Musketeers
+
+The MHM Musketeers
