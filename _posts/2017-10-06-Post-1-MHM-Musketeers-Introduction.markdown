@@ -23,4 +23,5 @@ We all got the chance to ‘pitch’ a topic of our interest in the beginning of
 That’s it from our side at the moment! However, we’d like to give you an official definition of MHM to take along, so you know what we’re talking about in the posts to come. Right, there you go: “Women and adolescent girls using a clean menstrual management material to absorb or collect blood that can be changed in privacy as often as necessary for the duration of the menstruation period, using soap and water for washing the body as required, and having access to facilities to dispose of used menstrual management materials” (The Joint Monitoring Program, by WHO and UNICEF, 2012)
  
 All our bleeding love,
-the MHM Musketeers
+
+The MHM Musketeers
