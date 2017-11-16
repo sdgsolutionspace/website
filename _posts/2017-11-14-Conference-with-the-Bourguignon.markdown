@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Conference with Lydia and Claude Bourguignon: “Quels sols pour demain?”"
+title:  "CrowdSoil: Conference with Lydia and Claude Bourguignon: “Quels sols pour demain?”"
 date:   2017-11-14 11:03:04 +0200
 categories: jekyll update
 ---
