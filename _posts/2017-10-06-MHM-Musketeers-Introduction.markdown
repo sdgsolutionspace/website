@@ -10,7 +10,6 @@ Authors: **Ludovica Donati, Cassandre de Froidmont, Coline Jeannet, Samsam Maham
 <br>
 <center><img src="/images/Group Picture MHM.jpg" alt=""  width="60%"></center>
 <br>
-<br>
 We are a group of six enthusiastic students who are determined to break the silence on menstruation. That’s an ambitious goal, isn’t it? Well, to understand our motives and project better, let’s start right at the beginning: Our master program and current workshop “Measuring and Predicting Sustainable Development”.
 
 We are all students of the Master in Innovation, Human Development and Sustainability, which is part of the Geneva Tsinghua Initiative for the sustainable development goals. It is an interdisciplinary program that focuses on defining and developing solutions for the SDGs through group projects and hands on activities. 
