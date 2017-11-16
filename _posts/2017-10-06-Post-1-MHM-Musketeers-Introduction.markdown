@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MHM Musketeers Introduction"
+title:  "Post 1 MHM Musketeers Introduction"
 date:   2017-10-06 16:03:04 +0200
 categories: jekyll update lectures
 ---
