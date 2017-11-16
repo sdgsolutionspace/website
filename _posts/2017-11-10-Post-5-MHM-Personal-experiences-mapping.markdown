@@ -18,6 +18,7 @@ So, here’s our personal experiences of data collection in Geneva and Vienna.
 Miriam’s experience collecting data in Geneva:
 <center><img src="/images/Miriam in Store.JPG" alt=""  width="30%"></left>
 <br>
+<br>
 “Can I help you?” was probably the question I heard the most during my data collection in the Jonction and Cornavin neighbourhood in Geneva, followed by a puzzled look as to what I was doing there. I was not surprised though, standing there with my phone taking pictures of the products, scribbling down my findings on a notepad and literally getting down on my knees to count all the pads and tampons. To be fair, I felt a bit embarrassed and uncomfortable. Those emotions quickly changed to frustration and disbelief - how many products, brands, types of pads and tampons do actually exist! From always normal size, normal super plus, silk touch, pro comfort, dailies fresh, black and white to curved tampons, compak pearls and so on...do we really need all that?
 
 Samsam’s and Miriam’s experience collecting data in Geneva:
@@ -28,6 +29,7 @@ Following Pascal’s presentation we also did a few mathematical calculations an
 
 Ludo’s experience collecting data in Vienna: 
 <center><img src="/images/Ludo in Store.JPG" alt=""  width="30%"></left>
+<br>
 <br>
 I started my collection of data with very high and motivated spirit, but to be honest this attitude shifted quite fast ;) I never ever had realized how many kind, size and type of menstrual hygiene could exist! Just to mention an example I spent 1h30 in the second shop I visited filling up my excel table. Plus the shop assistants were not so happy about my “awkward” presence for hours in front of their products and pretended some explanations (in German of course!).. well that’s the moment I became very creative ;).
 
