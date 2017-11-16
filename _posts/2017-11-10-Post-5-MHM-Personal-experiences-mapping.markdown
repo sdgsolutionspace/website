@@ -25,7 +25,6 @@ Samsam’s and Miriam’s experience collecting data in Geneva:
 <center><img src="/images/Samsam and Miriam.JPG" alt=""  width="30%"></left>
 <br>
 On the following day, I was joined by Samsam to continue mapping the products in the Cornavin neighbourhood in Geneva. It’s definitely more fun together and so we happily went off and explored the stores around the train station. The initial high spirits already shifted to exhaustion after the second store with Samsam basically crawling on the floor counting all the products and Miriam’s hand cramping due to writing down all the details. After taking a few awkward selfies to capture the experience for this blog, we were quite relieved to finish our work....
-Following Pascal’s presentation we also did a few mathematical calculations and visual representations of Global temperatures, HDI, the artic sea melt and the drivers of climate change. The graphs represented an increasing environmental impact through natural and human forces. 
 
 Ludo’s experience collecting data in Vienna: 
 <center><img src="/images/Ludo in Store.JPG" alt=""  width="30%"></left>
