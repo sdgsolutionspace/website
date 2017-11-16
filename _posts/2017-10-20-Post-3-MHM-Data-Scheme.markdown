@@ -17,13 +17,10 @@ Now let us walk you through our scheme.
 
 So, why is there such a lack of data, anyways? Here are some of the main reasons:
 
-Taboos & culture of silence aka no one wants to talk about periods
-
-MHM is a low priority issue for decision makers
-
-Lack of research in all dimensions related to MHM [education, health, environment, empowerment, economic]
-
-No consensus on what good MHM is
+Taboos & culture of silence aka no one wants to talk about periods <br>
+MHM is a low priority issue for decision makers <br>
+Lack of research in all dimensions related to MHM [education, health, environment, empowerment, economic] <br>
+No consensus on what good MHM is <br>
 
 Because of the lack of data, there is little coordination and unified action by actors such as governments and NGOs involved in MHM.
 
