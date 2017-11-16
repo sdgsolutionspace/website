@@ -20,9 +20,9 @@ Map taken from Safecity.in
 <br>
 
 There are many things that can impede or facilitate access for people across the world. To refresh your memories, here are the aspects we are examining in regards to access:
-1. Product Access
+1. Product Access: 
 Location of stores where products can be bought, cost, product types,quality of products, money distribution in family, distance from home/ school/ work
-2. Facility Access
+2. Facility Access: 
 Separate and private toilets, locking doors, clean water, soap, safe, waste disposal, distance from home/ school/ work
 
 Our map would therefore include product access, facilities access but also a possibility to leave comments so that people can include some of their personal experiences with menstruation they’d like to share.
