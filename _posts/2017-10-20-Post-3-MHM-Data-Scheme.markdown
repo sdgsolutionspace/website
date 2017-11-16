@@ -16,9 +16,13 @@ Welcome to the third post from the MHM Musketeers group! So if you’ve been fol
 Now let us walk you through our scheme.
 
 So, why is there such a lack of data, anyways? Here are some of the main reasons:
+
 Taboos & culture of silence aka no one wants to talk about periods
+
 MHM is a low priority issue for decision makers
+
 Lack of research in all dimensions related to MHM [education, health, environment, empowerment, economic]
+
 No consensus on what good MHM is
 
 Because of the lack of data, there is little coordination and unified action by actors such as governments and NGOs involved in MHM.
@@ -26,6 +30,7 @@ Because of the lack of data, there is little coordination and unified action by 
 In our opinion, with more MHM data we can have greater coordinated action through policy making and advocacy and women will be better informed on how to manage their MHM.
 
 So what data should be collected? Our brainstorming ideas:
+
 Health:
 Infections related to MHM
 MHM product care—how are girls and women using and caring for their products currently?
