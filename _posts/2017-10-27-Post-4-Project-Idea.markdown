@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project Idea"
+title:  "Post 4: Project Idea"
 date:   2017-10-27 16:03:04 +0200
 categories: jekyll update lectures
 ---
