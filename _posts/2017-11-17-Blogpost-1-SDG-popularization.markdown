@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blogpost 1 - SDG popularization"
+title:  "Blogpost 1 - Progress of SDG popularization"
 date:   2017-11-17 16:03:04 +0200
 categories: jekyll update lectures
 ---
