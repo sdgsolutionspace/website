@@ -7,9 +7,7 @@ categories: jekyll update lectures
 
 Authors: **Neva Fark, Aiman Zaidi**
 
-Blogpost 1:
-
-Progress of ‘SDG Popularization’
+Blogpost 1: Progress of ‘SDG Popularization’
 
 How to make the SDGs famous?
 
