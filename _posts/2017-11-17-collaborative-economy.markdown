@@ -15,13 +15,13 @@ There were 4 guests : Marlyne Sahakian, a sociologist, Christophe Dunand, teache
 
 Christophe Dunand explained the general sense of collaborative economy and how it can regroup the worst and the best initiative. Indeed, this concept needs to be clarified in what it includes or not to clearly differentiate Airbnb and Couchsurfing or Uber and the Taxi service for example. He reminded us the seven criteria of the Chamber of the collaborative economy of Geneva to qualify as a company: 
  
-(1) Social wellbeing
-(2) Participative Citizenship and Democracy
-(3) Ecology
-(4) Autonomy
-(5) Solidarity
-(6) Diversity
-(7) Coherence
+(1) Social wellbeing<br>
+(2) Participative Citizenship and Democracy<br>
+(3) Ecology<br>
+(4) Autonomy<br>
+(5) Solidarity<br>
+(6) Diversity<br>
+(7) Coherence<br>
 
 Marlyne Sahakian explained different theories on a social economy and on an ecological economy and how no links have ever been made between them. And this is what the collaborative economy is trying to do. She presented four different examples of collaborative companies in Switzerland, two concerning mobility and two concerning the exchange box between neighbours. It was interesting to see concrete examples on different topics and different levels of “solidarity” or “ecology” in the collaborative economy. 
 
