@@ -12,7 +12,7 @@ Blogpost 2: Progress of ‘SDG Popularization’
 Concept and Structure of the Video
 
 <br>
-<center><img src="/images/fig1.filmchart.png" alt=""  width="60%"></center>
+<center><img src="/images/fig1.filmchart.png" alt=""  width="80%"></center>
 
 Figure 1.
 
@@ -25,7 +25,7 @@ We named the short video ‘Are you okay?’ as we felt that we live our daily l
 We decided to use a gopro for the filming. We downloaded the gopro app on our iphone so we could have a visual of what was being recorded. We managed to make the gopro work and record sample footage. However, we didn’t like the wide angle and the audio wasn’t very clear. Therefore, we decided to switch to our smartphone. We filmed the mini video clips from our phone and managed to import them into our computer.
 
 <br>
-<center><img src="/images/fig2.vidbrowser.png" alt=""  width="60%"></center>
+<center><img src="/images/fig2.vidbrowser.png" alt=""  width="70%"></center>
 
 Figure 2.
 
