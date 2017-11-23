@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blogpost 5 - Progress of SDG popularization"
+title:  "SDG popularization V: Presentation feedback"
 date:   2017-11-23 16:03:04 +0200
 categories: jekyll update lectures
 ---
