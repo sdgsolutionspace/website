@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SDG popularization V: Presentation feedback"
-date:   2017-11-23 16:03:04 +0200
+date:   2017-11-17 16:03:04 +0200
 categories: jekyll update lectures
 ---
 
