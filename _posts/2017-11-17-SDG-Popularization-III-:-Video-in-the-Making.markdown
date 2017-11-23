@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blogpost 3 - Progress of SDG popularization"
+title:  "SDG Popularization III: Video in the Making"
 date:   2017-11-17 16:03:04 +0200
 categories: jekyll update lectures
 ---
