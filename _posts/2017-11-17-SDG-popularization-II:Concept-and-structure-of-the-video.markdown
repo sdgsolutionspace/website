@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blogpost 2 - Progress of SDG popularization"
+title:  "SDG Popularization II: Concept and Structure of the Video"
 date:   2017-11-17 16:03:04 +0200
 categories: jekyll update lectures
 ---
