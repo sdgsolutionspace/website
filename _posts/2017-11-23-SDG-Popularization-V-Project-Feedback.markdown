@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SDG popularization V: Presentation feedback"
+title:  "SDG Popularization V: Presentation Feedback"
 date:   2017-11-17 16:03:04 +0200
 categories: jekyll update lectures
 ---
@@ -24,12 +24,12 @@ Suggestions for further improvements and possible next steps have been made by t
  
 1. Adjustments to be made to the video:
 
-Make the message of the ‘Hope’ part more clear, motivate people more (for example by stories of  people of different origins and mother tongues, working on projects towards the SDGs, as mentioned above).
-Improve the overall quality of the video (use better camera, sound recording, higher resolution images, more professional video editing program such as Adobe for example)
-Adjust or translate the SDG logo to the different language regions
+- Make the message of the ‘Hope’ part more clear, motivate people more (for example by stories of  people of different origins and mother tongues, working on projects towards the SDGs, as mentioned above).
+- Improve the overall quality of the video (use better camera, sound recording, higher resolution images, more professional video editing program such as Adobe for example)
+- Adjust or translate the SDG logo to the different language regions
  
 2. Steps to be taken in terms of video distribution:
  
-Find an adequate way to provide more information about the SDGs after the viewer has seen the video (whether or not to create our own platform, refer to the SDG homepage, or even to create an interactive video, where people can upload their own SDG related videos into our existing frame, or to create a chain mechanism, that people are uploading their own SDG contribution videos to our platform)
-Define which languages the video should be translated into.
-Research and analyze which sharing platform to use for distribution in the respective regions.
+- Find an adequate way to provide more information about the SDGs after the viewer has seen the video (whether or not to create our own platform, refer to the SDG homepage, or even to create an interactive video, where people can upload their own SDG related videos into our existing frame, or to create a chain mechanism, that people are uploading their own SDG contribution videos to our platform)
+- Define which languages the video should be translated into.
+- Research and analyze which sharing platform to use for distribution in the respective regions.
