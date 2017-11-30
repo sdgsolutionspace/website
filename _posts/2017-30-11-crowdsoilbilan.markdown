@@ -37,9 +37,7 @@ This project is in two parts that have indeed few ties to each other. One part i
 - Schools
 <br>
 Teachers need tools to complete, in a short time, several criteria included in the study plan.
-We are aiming to get in touch with chemistry and biology teachers, who are more concerned about soil studies.
-<br>
-We have three options to reach this goal: first, we can contact the Department of Education (DIP) for support and then disseminate our app to School’s Sustainable Development Coordinators. This would be the option giving the most credibility to our application. Second, we can also get in touch with Sustainable Development Coordinators in schools, who have an in-house list with all biology and chemistry teachers. The teachers can be directly contacted as well, although it will probably be difficult to obtain an exhaustive contact list. Otherwise, we can reach the schools through partner associations already developing projects there.
+We are aiming to get in touch with chemistry and biology teachers, who are more concerned about soil studies. We have three options to reach this goal: first, we can contact the Department of Education (DIP) for support and then disseminate our app to School’s Sustainable Development Coordinators. This would be the option giving the most credibility to our application. Second, we can also get in touch with Sustainable Development Coordinators in schools, who have an in-house list with all biology and chemistry teachers. The teachers can be directly contacted as well, although it will probably be difficult to obtain an exhaustive contact list. Otherwise, we can reach the schools through partner associations already developing projects there.
 
 - Permaculture associations (BeeOtop, Permabondance, LA PEL)
 <br>
