@@ -34,20 +34,20 @@ This project is in two parts that have indeed few ties to each other. One part i
 
 <u>What is our target audience?</u>
 
-- Schools
+- Schools:
 <br>
 Teachers need tools to complete, in a short time, several criteria included in the study plan.
 We are aiming to get in touch with chemistry and biology teachers, who are more concerned about soil studies. We have three options to reach this goal: first, we can contact the Department of Education (DIP) for support and then disseminate our app to School’s Sustainable Development Coordinators. This would be the option giving the most credibility to our application. Second, we can also get in touch with Sustainable Development Coordinators in schools, who have an in-house list with all biology and chemistry teachers. The teachers can be directly contacted as well, although it will probably be difficult to obtain an exhaustive contact list. Otherwise, we can reach the schools through partner associations already developing projects there.
 
-- Permaculture associations (BeeOtop, Permabondance, LA PEL)
+- Permaculture associations (BeeOtop, Permabondance, LA PEL):
 <br>
 As part of their goal is to raise awareness and promote new forms of agriculture, while proposing concrete solutions for the revitalization of soils, these organizations are interested in our application to train their participants quickly and easily. We are already in contact with some of them, who have agreed to partner with us should this project go forward.
 
-- Community centers
+- Community centers:
 <br>
 Because we want to raise awareness concerning the soil and its health, children and young people are targeted. They’ll be tomorrow’s actors and we would like to share the importance of taking into account the soils and act in consequences. Community centers are entry points to reach young people. Also, they are structures generally linked to municipalities.
 
-- Municipalities (who must have a database to make decisions to decontaminate the soil)
+- Municipalities (who must have a database to make decisions to decontaminate the soil):
 <br>
 According to the law, the State has the obligation to preserve its soil and to decontaminate it in case it is polluted. The most polluted soils of Geneva’s canton are those of community gardens. Our goal is to offer analysis workshops in these places, to mobilize the people and families using the gardens.
 
