@@ -1,8 +1,5 @@
-layout: post
-title:  "Post 3: World Youth Forum for Peace"
-date:   2017-11-11 16:03:04 +0200
-categories: jekyll update lectures
----
+Post 3: World Youth Forum for Peace"
+
 
 
 
