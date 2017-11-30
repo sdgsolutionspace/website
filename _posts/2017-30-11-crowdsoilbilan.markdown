@@ -59,6 +59,12 @@ Adding the geographical coordinates or relying on the ‘What three words’ fra
 Refining the questions we ask to the users, and adding parameters such as ‘when was the soil last watered’ rather than relying on the meteorological data since the watering does not necessarily rely on the rain.
 Be careful about the assessment of first time users, as the measure will be relative, maybe rely on a peer-checking system to make sure newbee’s assessment are relevant and can indeed be implemented in the system.
 
+Sneak peek:
+<br>
+<center><img src="/images/Screen Shot 2017-11-30 at 17.08.05.png" alt=""  width="50%"></center>
+<br>
+
+
 <u>Partnerships</u>
 <br>
 One of the things we have to be the most careful about at that point of the project is to first define more precisely what we want to do before we go ahead with the partnerships.
