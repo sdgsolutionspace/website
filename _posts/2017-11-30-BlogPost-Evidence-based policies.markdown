@@ -32,6 +32,7 @@ hyper-connected world.
 <br>
 <center><img src="/images/map.jpg" alt=""  width="60%"></center>
 <br>
+
 Here is the project: https://villevivante.ch/#background 
 
 Another very intuitive and effective example for using data, is what Tesco (a retailer chain based mainly in the UK) does with the data
