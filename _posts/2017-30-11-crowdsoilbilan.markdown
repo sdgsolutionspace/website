@@ -14,17 +14,17 @@ The point of this blogpost is to sum up what we have been doing for the first si
 <br>
 As you may (or may not) know, our project is essentially an electronic tool to help a broad public assess efficiently soil viability and understand what there is to learn about soil. What we aim to provide is very accessible protocols both in terms of feasibility, understandability and cost for everyone who is interested in assessing soil viability and, if they are not viable, in finding solutions.
 
-Reflection on our project
+<u>Reflection on our project</u>
 <br>
 We presented our project and how our reflection has evolved so far to our peers and teachers, and here are the main feedback we have received: 
 
-Gamification
+<u>Gamification</u>
 <br>
 In the idea of making the protocols accessible, we have the idea of making them fun as well. 
 Some people were sceptical about how fun this kind of protocol would be, and if it would really incentivise people to play.
 Our answer to that comment is as follows: The gamification will probably not make people play if they are not interested in the subject in the first place. However, making the protocols fun would be a great asset if we propose this app to teachers in the context of classroom projects. The fun part of the app will probably not influence the adoption of the app but encourage players to play further.
 
-Why should people care about the crowdsourcing aspect?
+<u>Why should people care about the crowdsourcing aspect?</u>
 <br>
 This project is in two parts that have indeed few ties to each other. One part is the protocols and community built around soil assessment; the other is the crowdsourcing. 
 <br>
@@ -34,7 +34,7 @@ Although the individual users may not be directly interested in the state of all
 <br>
 - Advocacy. With a sufficient amount of data gathered, cases can be made to influence policies for better soil management. The aggregation of data is very useful to understand the state of the soils from a scientific and policy-making point of view. However, we are planning on adding privacy options for individual users to have the choice to not disclose their data if they wish not to do so.
 
-What is our target audience?
+<u>What is our target audience?</u>
 
 - Schools
 <br>
@@ -58,14 +58,14 @@ Because we want to raise awareness concerning the soil and its health, children 
 According to the law, the State has the obligation to preserve its soil and to decontaminate it in case it is polluted. The most polluted soils of Geneva’s canton are those of community gardens. Our goal is to offer analysis workshops in these places, to mobilize the people and families using the gardens.
 
 
-Technical stuff
+<u>Technical stuff</u>
 <br>
 Some of our classmates have suggested some technical twists to our project for instance: 
 Adding the geographical coordinates or relying on the ‘What three words’ framework to give precise geographical coordinates for precise localization on the map.
 Refining the questions we ask to the users, and adding parameters such as ‘when was the soil last watered’ rather than relying on the meteorological data since the watering does not necessarily rely on the rain.
 Be careful about the assessment of first time users, as the measure will be relative, maybe rely on a peer-checking system to make sure newbee’s assessment are relevant and can indeed be implemented in the system.
 
-Partnerships
+<u>Partnerships</u>
 <br>
 One of the things we have to be the most careful about at that point of the project is to first define more precisely what we want to do before we go ahead with the partnerships.
 Our focus over the next few weeks will therefore to have a complete mockup before we try to contact all relevant possible stakeholders.
