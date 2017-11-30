@@ -7,6 +7,9 @@ categories: jekyll update
 
 Authors: **Océane Schaub, Anne-Pia Marty, Loukas Garanis, Marcelo Veloso**
 
+<br>
+<center><img src="/images/Logo CS.png" alt=""  width="50%"></center>
+<br>
 
 The point of this blogpost is to sum up what we have been doing for the first six weeks of this project and what we still have to work on. Based on the reflections of our peers and teachers, we are taking the opportunity of this blogpost to refocus our priorities for the end of this semester and what comes after.
 
