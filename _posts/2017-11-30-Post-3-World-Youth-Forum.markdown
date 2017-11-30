@@ -1,5 +1,4 @@
-Group WR Post 3: "World Youth Forum for Peace"
-
+Group WR Post 3: *World Youth Forum for Peace*
 
 
 
