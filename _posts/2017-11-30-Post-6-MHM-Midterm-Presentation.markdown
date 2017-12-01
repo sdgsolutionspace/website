@@ -11,7 +11,7 @@ Hello MHM groupees! We are checking in to update you on the midterm presentation
 
 Our project idea sparked quite some interest and stirred up discussions. Yipee, one step closer to breaking the silence on menstruation! Here are some of the responses we got:
 <br>
-<center><img src="/images/Feedback Peers MHM.png" alt=""  width="60%"></center>
+<center><img src="/images/Feedback Peers MHM.png" alt=""  width="80%"></center>
 <br>
 The feedback from our peers was valuable and made us reflect once again on the strong points and weaknesses of our project. Being critical is important - so here are the main issues we have to reconsider: the scale and scope of our project (yes we know, our focus is too broad), the data to collect (are product and facility access really the most relevant?), incentives for crowdsourcing and specifically how MHM data mapping will be useful.
 
