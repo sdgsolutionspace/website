@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post 6 MHM: Midterm Presentation"
+title:  "Midterm Post 6 MHM: Interim Presentation"
 date:   2017-11-30 16:03:04 +0200
 categories: jekyll update lectures
 ---
