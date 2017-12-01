@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Why there is a need to measure air pollution exposure on a personal scale in Switzerland?"
-date:   2017-11-30 16:03:04 +0200
+title:  "Why there is a need to measure air pollution exposure on a personal scale in Switzerland"
+date:   2017-12-01 16:03:04 +0200
 categories: jekyll update
 ---
 
