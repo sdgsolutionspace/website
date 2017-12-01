@@ -5,7 +5,7 @@ date:   2017-11-20 16:03:04 +0200
 categories: jekyll update lectures
 ---
 
-Authors: **Ludovica Donati, Cassandre de Froidmont, Coline Jeannet, Samsam Mahamad, Emily Sheene, Miriam Steffen
+Authors: **Ludovica Donati, Cassandre de Froidmont, Coline Jeannet, Samsam Mahamad, Emily Sheene, Miriam Steffen**
 
 <br>
 <center><img src="/images/GHL MHM.png" alt=""  width="60%"></center>
