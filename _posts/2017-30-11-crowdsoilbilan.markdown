@@ -54,6 +54,12 @@ Because we want to raise awareness concerning the soil and its health, children 
 <br>
 According to the law, the State has the obligation to preserve its soil and to decontaminate it in case it is polluted. The most polluted soils of Geneva’s canton are those of community gardens. Our goal is to offer analysis workshops in these places, to mobilize the people and families using the gardens.
 
+Here is our general flyer that we use to give a first impression of the project:
+<br>
+<center><img src="/images/41ea0dd9-f3c6-4fa6-acf4-37fad1120b6c.jpg" alt=""  width="50%"></center>
+<br>
+
+
 
 <u>Technical stuff</u>
 <br>
