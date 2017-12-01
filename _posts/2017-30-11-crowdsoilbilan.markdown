@@ -16,10 +16,15 @@ The point of this blogpost is to sum up what we have been doing for the first si
 <u>Very quick description of our aims</u>
 <br>
 As you may (or may not) know, our project is essentially an electronic tool to help a broad public assess efficiently soil viability and understand what there is to learn about soil. What we aim to provide is very accessible protocols both in terms of feasibility, understandability and cost for everyone who is interested in assessing soil viability and, if they are not viable, in finding solutions.
+<br>
+Here is our general flyer that we use to give a first impression of the project:
+<br>
+<center><img src="/images/41ea0dd9-f3c6-4fa6-acf4-37fad1120b6c.jpg" alt=""  width="80%"></center>
+<br>
 
 <u>Reflection on our project</u>
 <br>
-We presented our project and how our reflection has evolved so far to our peers and teachers, and here are the main feedback we have received: 
+We presented our project and how our reflection has evolved so far to our peers and teachers, and below are the main feedback we have received.
 
 <u>Gamification</u>
 <br>
@@ -53,12 +58,6 @@ Because we want to raise awareness concerning the soil and its health, children 
 - Municipalities (who must have a database to make decisions to decontaminate the soil):
 <br>
 According to the law, the State has the obligation to preserve its soil and to decontaminate it in case it is polluted. The most polluted soils of Geneva’s canton are those of community gardens. Our goal is to offer analysis workshops in these places, to mobilize the people and families using the gardens.
-
-Here is our general flyer that we use to give a first impression of the project:
-<br>
-<center><img src="/images/41ea0dd9-f3c6-4fa6-acf4-37fad1120b6c.jpg" alt=""  width="50%"></center>
-<br>
-
 
 
 <u>Technical stuff</u>
