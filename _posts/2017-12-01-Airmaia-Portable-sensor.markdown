@@ -5,6 +5,8 @@ date:   2017-12-01 16:04:04 +0200
 categories: jekyll update
 ---
 
+Authors: **Miya Yang, Ying Ouyang, Emmanuel Kellner**
+
 We bought two identical AQI sensors (called, Laseregg) with PM 2.5 indicator from a Swiss
 start-up company that is based in China, Kaiterra. In China, most people get the AQI
 information from official readings on apps, the source could be from Chinese official source or
