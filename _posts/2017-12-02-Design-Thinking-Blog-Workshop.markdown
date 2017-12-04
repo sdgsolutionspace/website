@@ -26,12 +26,6 @@ We personally really enjoyed the practical aspect of this workshop and after hav
 
 
 <br>
-<center><img src="/images/Screen Shot 2017-11-06 at 16_17_42.png " alt=""  width="60%"></center>
-<br>
-
-
-
-<br>
 <center><img src="/images/Screen Shot 2017-11-06 at 16_42_20.png" alt=""  width="60%"></center>
 <br>
 
