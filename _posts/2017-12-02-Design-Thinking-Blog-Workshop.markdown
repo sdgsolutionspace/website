@@ -26,13 +26,10 @@ We personally really enjoyed the practical aspect of this workshop and after hav
 
 
 <br>
-<center><img src="/images
-
-<br>
 <center><img src="/images/Screen Shot 2017-11-06 at 16_17_42.png " alt=""  width="60%"></center>
 <br>
 
-Following this, we had to generate five products that would solve our partner’s problem. Based on their feedback we then focused on designing one new solution. This new solution was then built with cardboard, paper, stickers and whatever was put at our disposal (shown in image 2). Even if these prototypes were not useable, it gave us an idea of the further thought process needed in order to design innovative products. This prototype was then showed to our partner in order to receive feedback (shown in image 3).
+
 
 <br>
 <center><img src="/images/Screen Shot 2017-11-06 at 16_42_20.png" alt=""  width="60%"></center>
