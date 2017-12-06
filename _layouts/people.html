@@ -1,0 +1,49 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+<strong>Background : </strong> {{ page.background }}
+<br>
+<strong>Languages : </strong>
+{% for language in page.spoken_languages %}
+  {{ language }}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+<br>
+<!--
+<br><br>
+<strong> Projects :</strong><br>
+
+{% for p in site.posts %}
+  {% for author in p.authors %}
+    {% if page.id == author %}
+      {% if p.project %}
+        {{p.project}}<br>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+-->
+<br>
+<strong> Recent Blog Posts :</strong><br>
+
+  {% for p in site.posts %}
+    {% for author in p.authors %}
+      <!--{{ page.id}} {{author}} <br>-->
+      {% if page.id == author %}
+        {{p.title}} ({{p.date | escape}})<br><br>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
