@@ -2,7 +2,9 @@
 layout: post
 title:  "Integration in Progress - Introduction POST 1 "
 date:   2017-11-27 16:03:04 +0200
-categories: jekyll update lectures
+categories: wihds17 projects iinprogress
+project : Integration in Progress
+authors : kzaidi fahmeti
 ---
 
 Authors: **Komal Zaidi & Fatimé Ahmeti**
@@ -31,4 +33,4 @@ We came up with the idea of organising a Hackathon where we could invite differe
 Stay tuned for more blogs
 
 by:
-Komal & Fatimé 
+Komal & Fatimé

@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h2 class="post-title">{{ page.title | escape }}</h2>
+  </header>
+
+<br>
+<h3>Project description : </h3>
+{{ page.description | escape }}
+
+<br>
+<br>
+<h3>Blog posts : </h3>
+  <div class="post-content">
+    {% for item in site.posts %}
+      {% for cat in item.categories %}
+      {% if cat == page.project_id %}<p><h4><a href="{{item.url}}">{{ item.title}}</a></h4></p>{% endif %}
+      {% endfor %}
+
+    {% endfor %}
+
+
+  </div>
+
+</article>

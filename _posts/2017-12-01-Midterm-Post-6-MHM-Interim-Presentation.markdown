@@ -2,7 +2,9 @@
 layout: post
 title:  "Midterm Post 6 MHM: Interim Presentation"
 date:   2017-11-30 16:03:04 +0200
-categories: jekyll update lectures
+categories: wihds17 projects mhm_musketeers
+project : MHM Musketeers
+authors : ldonati cdefroidmont cjeannet smahamad esheene msteffen
 ---
 
 Authors: **Ludovica Donati, Cassandre de Froidmont, Coline Jeannet, Samsam Mahamad, Emily Sheene, Miriam Steffen**

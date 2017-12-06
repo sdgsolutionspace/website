@@ -2,7 +2,9 @@
 layout: post
 title:  "SDG Popularization III: Video in the Making"
 date:   2017-11-17 16:03:04 +0200
-categories: jekyll update lectures
+categories: wihds17 projects sdgpop
+project : SDG Popularization
+authors : nfark azaidi
 ---
 
 Authors: **Neva Fark, Aiman Zaidi**
@@ -20,11 +22,11 @@ The aim was to gather videos relevant for each of the SDGs and put together a sh
 
 We narrowed down each of the downloaded video to 3-5 seconds using iMovie. We learnt how to use iMovie for instance:
 
-- how to import videos 
+- how to import videos
 - crop them
 - move them from one place to another
 - use transitions from one video to the next
-- add music 
+- add music
 - slow motion or fast forward
 
 Figure 1 below shows a screenshot of the iMovie application that we used to piece together a short video.
@@ -34,7 +36,7 @@ Figure 1 below shows a screenshot of the iMovie application that we used to piec
 Figure 1.
 <br>
 <br>
-Figure 2 below shows a screenshot of the Garage Band application we used to to merge 2 songs together. The final version was exported into MP3 and then imported into iMovie. 
+Figure 2 below shows a screenshot of the Garage Band application we used to to merge 2 songs together. The final version was exported into MP3 and then imported into iMovie.
 
 <br>
 <center><img src="/images/fig2.garageband.png" alt=""  width="90%"></center>
@@ -44,7 +46,7 @@ Figure 2.
 
 Progress:
 
-Video made and exported using iMovie 
+Video made and exported using iMovie
 
 1. The video was finally pieced together in the sequences explained in our first blog post. We showed the current global issues caused by humans followed by the SDGs shown as a solution for these issues. We aimed to present positive impacts human can have and that the audience should get involved. The video was uploaded on google drive and it can be viewed by anyone who has the following link:
 
@@ -60,11 +62,10 @@ https://goo.gl/forms/2RkJ2RG6O8Yaizjp2
 
 Issues:
 
-- Neither of us had used iMovie before therefore, it has been a task for us to learn how to use the application. 
-- We found it difficult to edit the music as the audio files were much longer than video file. We also had to merge 2 songs together therefore the transition from one to the next one had to be smooth and unnoticeable. Also, we found it difficult to adjust the music according to the images. 
+- Neither of us had used iMovie before therefore, it has been a task for us to learn how to use the application.
+- We found it difficult to edit the music as the audio files were much longer than video file. We also had to merge 2 songs together therefore the transition from one to the next one had to be smooth and unnoticeable. Also, we found it difficult to adjust the music according to the images.
 - We made a survey using ‘google drive’’ and sent out the link varying participants however there was a glitch and we weren’t able to access the data. Therefore, we changed our method and made a new survey using google forms.
 
 By
 
 Neva Fark and Aiman Zaidi
-

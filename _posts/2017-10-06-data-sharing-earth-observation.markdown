@@ -1,25 +1,27 @@
 ---
 layout: post
 title:  "Data sharing and Earth Observation Workshop"
+teacher : "Gregory Giuliani"
 date:   2017-10-06 16:03:04 +0200
-categories: jekyll update
+categories: wihds17 lectures
+authors : cjeannet apmarty
 ---
 
 Authors: **Coline Jeannet, Anne-Pia Marty**
 
 
-As our lecturer Gregory Giuliani put it “the earth is complex a system of systems”. These systems intertwine, making it a never ending process to collect data and draw dots between these phenomenons. Currently, we, as humans, collect more data than we can technically store. That’s a LOT of data to process… How do we use this data, so as to make it useful for, interpretable by, and accessible to as many stakeholders as possible? 
+As our lecturer Gregory Giuliani put it “the earth is complex a system of systems”. These systems intertwine, making it a never ending process to collect data and draw dots between these phenomenons. Currently, we, as humans, collect more data than we can technically store. That’s a LOT of data to process… How do we use this data, so as to make it useful for, interpretable by, and accessible to as many stakeholders as possible?
 
 Spatial Data Infrastructures (aka SDI) is an umbrella term that refers to all policies, technology standards, databases, procedures for organisations and technologies to foster collaboration, use and management of geospatial data. This can seem quite arid, but an easier way to understand it would be “all that is needed to collect, use, share and interpret geospatial data”.
-SDIs are very powerful tools, but they come with big challenges that make them hard to implement. 
+SDIs are very powerful tools, but they come with big challenges that make them hard to implement.
 
-It is interesting to highlight the case of MAP-X, developed by UN Environment in collaboration with the World Bank. MAP-X is a cloud-based solution, allowing monitoring of the use of natural resources, contrasting sustainable versus unsustainable methods on maps. Four aspects must be addressed to ensure the sustainable use of natural resources: geospatial questions, socio economic context, interconnectedness of scales, unequal distribution of power between stakeholders. 
+It is interesting to highlight the case of MAP-X, developed by UN Environment in collaboration with the World Bank. MAP-X is a cloud-based solution, allowing monitoring of the use of natural resources, contrasting sustainable versus unsustainable methods on maps. Four aspects must be addressed to ensure the sustainable use of natural resources: geospatial questions, socio economic context, interconnectedness of scales, unequal distribution of power between stakeholders.
 
 So what are the 7 challenges of setting up SDI, such as MAP-X?
 Difference in stakeholders and stakeholder interests
 Decision-making should shift towards a more inclusive process, balancing out the interests of governments, the private sector and citizens in a fair way.
 Data ownership rights
-Managing commitment from governments is difficult, and the EITI (Extractive Industries Transparency Initiative) was developed to address this issue, displaying the progress and collaboration of each country on a map. 
+Managing commitment from governments is difficult, and the EITI (Extractive Industries Transparency Initiative) was developed to address this issue, displaying the progress and collaboration of each country on a map.
 Cultural differences in the work ethics
 Commitment to SDI by the different countries varies widely depending on that country’s agenda, and the priority of SDI relative to other activities. Moreover, cultural differences make true commitment difficult to assess for MAP-X.
 Fear of control loss over the data
@@ -33,7 +35,7 @@ Difficulty of scaling up
 
 Setting up a working SDI requires being able to navigate across a complex mix of diverging interests and different organisational cultures and is thus as much relational as it is technical.
 
-Why go through all of this trouble, you may ask. SDI are crucial to tackle a lot of different problems, and most environment-monitoring activities require SDIs. 
+Why go through all of this trouble, you may ask. SDI are crucial to tackle a lot of different problems, and most environment-monitoring activities require SDIs.
 
 Our thoughts
 
@@ -44,4 +46,3 @@ Now you may consider yourself an expert in SDI, congratulations!
 ______
 Nicolas Ray gave us the lecture on Data Sharing and EO. He is currently a Senior Lecturer at the Institute for Environmental Science, and Head of Environment Modelling & Geoprocessing Unit at GRID-Geneva. As part of the Measuring and Predicting Sustainable Development workshop, Nicolas Ray gave us a lecture on the Institutional Challenges regarding Spatial Data Infrastructure. Check out his work if you want to know more!
 ______
-

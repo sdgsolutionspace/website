@@ -2,7 +2,9 @@
 layout: post
 title:  "Moment of air quality visibility and Go compare!"
 date:   2017-12-01 16:05:04 +0200
-categories: jekyll update
+categories: wihds17 projects airmaia
+project : Airmaia
+authors : myang youyang ekellner
 ---
 
 Authors: **Miya Yang, Ying Ouyang, Emmanuel Kellner**
@@ -23,7 +25,8 @@ In the tram, the AQI average was about 75 with small fluctuation from Gare Corna
 
 <center><a href="http://www.youtube.com/watch?feature=player_embedded&v=kBWgGI-VEv8" target="_blank"><img src="http://img.youtube.com/vi/kBWgGI-VEv8/0.jpg" alt="vidoe0" width="240" height="180" border="10" /></a></center>
 
-Later she travelled into the countryside with little traffic on the road in the French neighbourhood in a modest private car, the reading of AQI level was steadily around 70 with window open, in the car space, and near the car’s air conditioning air outlet. It seems (not only from this journey), among bus, tram, walking and private car, bus has the biggest difference inside and outside so is the least exposed to pollutants, then tram, little difference there is for private car without air filter installation from the reading on the open road – similar would be for cycling. However, it cannot be concluded that bus is the healthiest option, you might need to wait for a bus for 10 minutes in a station that is a “heavily polluted” by vehicle emissions and smokes of waiting passengers. In another trip, the air quality of a bus journey that involves waiting and boarding was briefly recorded 
+Later she travelled into the countryside with little traffic on the road in the French neighbourhood in a modest private car, the reading of AQI level was steadily around 70 with window open, in the car space, and near the car’s air conditioning air outlet. It seems (not only from this journey), among bus, tram, walking and private car, bus has the biggest difference inside and outside so is the least exposed to pollutants, then tram, little difference there is for private car without air filter installation from the reading on the open road – similar would be for cycling. However, it cannot be concluded that bus is the healthiest option, you might need to wait for a bus for 10 minutes in a station that is a “heavily polluted” by vehicle emissions and smokes of waiting passengers. In another trip, the air quality of a bus journey that involves waiting and boarding was briefly recorded
+
 
 <center><a href="http://www.youtube.com/watch?feature=player_embedded&v=xvJzT_CORLA&t=57s" target="_blank"><img src="http://img.youtube.com/vi/xvJzT_CORLA/0.jpg" alt="video1" width="240" height="180" border="10" /></a></center>
 

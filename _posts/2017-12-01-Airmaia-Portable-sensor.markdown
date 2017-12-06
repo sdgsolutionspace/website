@@ -2,7 +2,9 @@
 layout: post
 title:  "The Portable sensor LaserEgg and Geneva cantonal sensor stations"
 date:   2017-12-01 16:04:04 +0200
-categories: jekyll update
+categories: wihds17 projects airmaia
+project : Airmaia
+authors : myang youyang ekellner
 ---
 
 Authors: **Miya Yang, Ying Ouyang, Emmanuel Kellner**

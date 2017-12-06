@@ -2,7 +2,8 @@
 layout: post
 title:  "Design Thinking Workshop-Giorgio Pauletto"
 date:   2017-12-02 16:03:04 +0200
-categories: jekyll update lectures
+categories: wihds17 lectures
+authors : cdefroidmont smahamad
 ---
 
 Authors: **Cassandre de Froidmont & Samsam Mahamed**
@@ -34,4 +35,3 @@ We personally really enjoyed the practical aspect of this workshop and after hav
 <br>
 <center><img src="/images/2017-11-06-PHOTO-00000039.jpg " alt=""  width="60%"></center>
 <br>
-

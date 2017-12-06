@@ -2,16 +2,18 @@
 layout: post
 title:  "Post 4 MHM: Project Idea"
 date:   2017-10-27 16:03:04 +0200
-categories: jekyll update lectures
+categories: wihds17 projects mhm_musketeers
+project : MHM Musketeers
+authors : ldonati cdefroidmont cjeannet smahamad esheene msteffen
 ---
 
 Authors: **Ludovica Donati, Cassandre de Froidmont, Coline Jeannet, Samsam Mahamad, Emily Sheene, Miriam Steffen**
 
-Hi followers! Our apologies for leaving you hanging on the third post anxiously wondering how in the world we will collect data on access to MHM products and facilities. Today we will explain our ideas. 
+Hi followers! Our apologies for leaving you hanging on the third post anxiously wondering how in the world we will collect data on access to MHM products and facilities. Today we will explain our ideas.
 
 So, how will we collect and share this data? Drumroll, please….
 
-Our idea is to create an open source map that would use crowdsourcing to map different dimensions related to MHM. We got some great inspiration for this project from SafeCity, a non-profit company with a platform that crowdsources personal stories of sexual harassment and abuse in public space. We’ve screenshot a picture of their map which you can find below, but we recommend you to check this site out (www.safecity.in) to get a better idea about their phenomenal work. 
+Our idea is to create an open source map that would use crowdsourcing to map different dimensions related to MHM. We got some great inspiration for this project from SafeCity, a non-profit company with a platform that crowdsources personal stories of sexual harassment and abuse in public space. We’ve screenshot a picture of their map which you can find below, but we recommend you to check this site out (www.safecity.in) to get a better idea about their phenomenal work.
 
 <br>
 <center><img src="/images/Map Safecity India.png" alt=""  width="60%"></center>
@@ -20,9 +22,9 @@ Map taken from Safecity.in
 <br>
 
 There are many things that can impede or facilitate access for people across the world. To refresh your memories, here are the aspects we are examining in regards to access:
-1. Product Access: 
+1. Product Access:
 Location of stores where products can be bought, cost, product types,quality of products, money distribution in family, distance from home/ school/ work
-2. Facility Access: 
+2. Facility Access:
 Separate and private toilets, locking doors, clean water, soap, safe, waste disposal, distance from home/ school/ work
 
 Our map would therefore include product access, facilities access but also a possibility to leave comments so that people can include some of their personal experiences with menstruation they’d like to share.
@@ -37,7 +39,7 @@ This platform would be useful on three aspects; it would raise awareness on the 
 <br>
 
 So there it is, now you know what our project actually consists of! The next blog post will be about the process of setting up this map so stay updated!
- 
+
 All our bleeding love,
 
 The MHM Musketeers

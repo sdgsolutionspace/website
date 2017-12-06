@@ -13,29 +13,80 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: SDG Solution Space
-email: hello@sdgsolutionspace.org
-description: >- # this means to ignore newlines until "baseurl:"
-  
+email: hello@sdgsolspace.org
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sdgsolutionspace.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://sdgsolutionspace.org" # the base hostname & protocol for your site
 twitter_username: sdgsolspace
 github_username:  sdgsolutionspace
+#linkedin_username: opengeneva
+#youtube_username: opengeneva
+#facebook_username: opengeneva
+port : 4001
+
+#site.google_analytics : UA-56851854-
 
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
+gems:
   - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+excerpt_separator: <!--more-->
+
+
+# collections
+
+collections:
+  people:
+    output : true
+  projects:
+    output : true
+  events :
+    output : true
+
+
+# translation dictionary
+t:
+  en:
+    home:
+      name: "Home"
+      url: "/"
+      display : false
+    news:
+      name: "News"
+      url: "/news/"
+      display : false
+    events :
+      name: "Events"
+      url: "/events/"
+      display : false
+
+    people:
+      name: "People"
+      url: "/people/"
+      display : true
+    projects:
+      name: "Projects"
+      url: "/projects/"
+      display : true
+
+
+    education :
+      name: "Education"
+      url: "/education/"
+      display : false
+    media:
+      name: "Media"
+      url: "/media/"
+      display : true
+
+    about:
+      name: "About"
+      url: "/about/"
+      display : true

@@ -2,12 +2,12 @@
 layout: post
 title:  "Planetary Boundaries (Pascal Peduzzi)"
 date:   2017-11-03 16:03:04 +0200
-categories: jekyll update lectures
+categories: wihds17 lectures
+authors : kzaidi myfan
 ---
-
 Authors: **Komal Zaidi, Miya Yang Fan**
 
-The talk was given by Pascal Peduzzi who is the Director of GRID Geneva at the United Nations Environment Programme and one of his main areas of expertise is Planetary Boundaries. His presentation was very interesting as it connected very well with our Master’s programme in Innovation, HD and Sustainability which focuses on the Sustainable Development Goals, thus, it was very useful to understand the concept of Planetary Boundaries. 
+The talk was given by Pascal Peduzzi who is the Director of GRID Geneva at the United Nations Environment Programme and one of his main areas of expertise is Planetary Boundaries. His presentation was very interesting as it connected very well with our Master’s programme in Innovation, HD and Sustainability which focuses on the Sustainable Development Goals, thus, it was very useful to understand the concept of Planetary Boundaries.
 
 In the lecture, Mr Peduzzi explained that Planetary Boundaries are a set of nine bio-physical limits of the Earth System that should be respected in order to maintain conditions favorable to further human development. Exceeding this threshold could result in drastic change in human societies by disrupting the environmental limits based upon our current socio-economic system.
 

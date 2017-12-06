@@ -2,7 +2,9 @@
 layout: post
 title:  "Finding a place to live in Geneva"
 date:   2017-10-20 16:03:04 +0200
-categories: jekyll update
+categories: wihds17 livegeneva
+project : "living in Geneva"
+authors : kpolyakova
 ---
 
 Authors: **Katerina Polyakova**
@@ -31,4 +33,3 @@ Good Luck !
 <center><img src="/images/jetdeau.jpeg" alt=""  width="60%"></center>
 <br>
 <br>
-

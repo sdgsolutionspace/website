@@ -1,0 +1,11 @@
+<a href="https://twitter.com/{{ site.twitter_username }}" target= "_blank"><span class="icon icon--twitter">{% include social-icons/icon-twitter.svg %}</span></a>
+<a href="https://github.com/{{ site.github_username }}" target= "_blank"><span class="icon icon--github">{% include social-icons/icon-github.svg %}</span></a>
+
+<!--
+{% for icon in social-icons %}
+  <a class="social-icon--link {{ icon.class }}" href="{{ icon.url }}">
+    {% include {{ icon.class | prepend: 'social-icons/' | append: '.svg' }} %}
+    <span class="social-icon--title visuallyHidden">{{ icon.title }}</span>
+  </a>
+{% endfor %}
+-->

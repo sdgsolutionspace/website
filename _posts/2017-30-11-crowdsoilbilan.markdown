@@ -2,7 +2,9 @@
 layout: post
 title:  "CrowdSoil: halfway update"
 date:   2017-11-30 11:03:04 +0200
-categories: jekyll update
+project : CrowdSoil
+categories: wihds17 projects crowdsoil
+authors : oschaub apmarty lgaranis mveloso
 ---
 
 Authors: **Océane Schaub, Anne-Pia Marty, Loukas Garanis, Marcelo Veloso**
@@ -28,7 +30,8 @@ We presented our project and how our reflection has evolved so far to our peers 
 
 <u>Gamification</u>
 <br>
-In the idea of making the protocols accessible, we have the idea of making them fun as well. 
+
+In the idea of making the protocols accessible, we have the idea of making them fun as well.
 Some people were sceptical about how fun this kind of protocol would be, and if it would really incentivise people to play.
 Our answer to that comment is as follows: The gamification will probably not make people play if they are not interested in the subject in the first place. However, making the protocols fun would be a great asset if we propose this app to teachers in the context of classroom projects. The fun part of the app will probably not influence the adoption of the app but encourage players to play further.
 
@@ -62,7 +65,9 @@ According to the law, the State has the obligation to preserve its soil and to d
 
 <u>Technical stuff</u>
 <br>
-Some of our classmates have suggested some technical twists to our project for instance: 
+
+Some of our classmates have suggested some technical twists to our project for instance:
+
 Adding the geographical coordinates or relying on the ‘What three words’ framework to give precise geographical coordinates for precise localization on the map.
 Refining the questions we ask to the users, and adding parameters such as ‘when was the soil last watered’ rather than relying on the meteorological data since the watering does not necessarily rely on the rain.
 Be careful about the assessment of first time users, as the measure will be relative, maybe rely on a peer-checking system to make sure newbee’s assessment are relevant and can indeed be implemented in the system.
@@ -80,5 +85,5 @@ Our focus over the next few weeks will therefore to have a complete mockup befor
 However, it remains a good idea to interact with other students that would be interested in helping us develop the app, especially because we could mutually benefit from each other’s experiences. With those kinds of interactions, we are more looking for a real collaboration than for a cheap outsourcing solution.
 
 
-This project seems promising indeed! With those constructive feedbacks, we now have good directions to go forward and we will keep you posted! 
 
+This project seems promising indeed! With those constructive feedbacks, we now have good directions to go forward and we will keep you posted!

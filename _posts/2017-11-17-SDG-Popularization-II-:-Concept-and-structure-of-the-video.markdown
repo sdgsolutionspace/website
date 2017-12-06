@@ -2,7 +2,9 @@
 layout: post
 title:  "SDG Popularization II: Concept and Structure of the Video"
 date:   2017-11-17 16:03:04 +0200
-categories: jekyll update lectures
+categories: wihds17 projects sdgpop
+project : SDG Popularization
+authors : nfark azaidi
 ---
 
 Authors: **Neva Fark, Aiman Zaidi**
@@ -16,11 +18,11 @@ Concept and Structure of the Video
 
 Figure 1.
 
-In terms of the concept of the video, we wanted to show a comparison of the negative impacts have on the world with the possible solutions to these issues. 
+In terms of the concept of the video, we wanted to show a comparison of the negative impacts have on the world with the possible solutions to these issues.
 
 The Catch:
 
-We named the short video ‘Are you okay?’ as we felt that we live our daily lives normally without realizing the extent of impact we have on the earth. Therefore, starting of with a rhetorical question could create curiosity in the audience to finding out what’s wrong and what the video is going to be about. As we want to have a global approach towards this project, we didn’t want to limit the language to English. Therefore, the beginning of the video shows people saying ‘are you okay?’ in 7 languages - English, French, German, Portuguese, Spanish, Japanese and Urdu shown in Figure 1. We didn’t want the video to be educational rather a short informational video which is why there is no text throughout the video. 
+We named the short video ‘Are you okay?’ as we felt that we live our daily lives normally without realizing the extent of impact we have on the earth. Therefore, starting of with a rhetorical question could create curiosity in the audience to finding out what’s wrong and what the video is going to be about. As we want to have a global approach towards this project, we didn’t want to limit the language to English. Therefore, the beginning of the video shows people saying ‘are you okay?’ in 7 languages - English, French, German, Portuguese, Spanish, Japanese and Urdu shown in Figure 1. We didn’t want the video to be educational rather a short informational video which is why there is no text throughout the video.
 
 We decided to use a gopro for the filming. We downloaded the gopro app on our iphone so we could have a visual of what was being recorded. We managed to make the gopro work and record sample footage. However, we didn’t like the wide angle and the audio wasn’t very clear. Therefore, we decided to switch to our smartphone. We filmed the mini video clips from our phone and managed to import them into our computer.
 
@@ -29,7 +31,7 @@ We decided to use a gopro for the filming. We downloaded the gopro app on our ip
 
 Figure 2.
 
-After the mini video clips in multiple languages, we decided to collate negative imagery of human impacts on Earth. 
+After the mini video clips in multiple languages, we decided to collate negative imagery of human impacts on Earth.
 
 
 The Shock: Problems
@@ -41,7 +43,7 @@ To prevent creating a random compilation of dramatic clip content, we tried to t
 The Solution:
 
 The SDGs will be presented with dramatic positive music to showcase their importance. The SDG logo along with each of the 17 goals will be shown. This will be followed by positive imagery of the Earth and the possible impacts we can make through the SDGs. Imagery of innovation, technological advancement and aforestation for instance have been shown. The positive visuals highlight that there is still hope and that everyone can get involved to reduce global disparities and reduce land degradation. The video will end with the phrase ‘Get involved’ to motivate the public to get involved in the SDGs and to initiate a change.
- 
+
 Hope:
 
 The problem part is a lot heavier than the solution or hope part, not only in terms of emotional content, but also in length. This is intentional. Even if we want to give hope to people to make change, we nevertheless want to emphasize that these problems still exist. We want to avoid the viewer thinking that good things are already being done by others, so I don’t have to. We want the viewer to want to know more about the SDGs.
