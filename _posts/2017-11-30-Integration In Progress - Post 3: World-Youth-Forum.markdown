@@ -1,11 +1,13 @@
+
 ---
 layout: post
 title:  "Integration in Progress - World Youth Forum for Peace "
 date:   2017-11-30 17:03:04 +0200
 categories: wihds17 projects iinprogress
 project : Integration in Progress
-authors : kpolyakova tla 
+authors : kpolyakova tla
 ---
+
 
 Authors: **Katerina Polyakova and Tina La**
 
@@ -16,6 +18,7 @@ Organized by the President Abdel Fattah el-Sisi.**
 <br>
 <center><img src="/images/worldYF.jpg" alt=""  width="60%"></center>
 <br>
+
 
 To progress in our project with Women Refugees, it was interesting to go abroad and observe the means of integration that other actors
 in a different county are using to integrate refugee women in their society.. For that reason, a member of our group travelled to Egypt
@@ -35,8 +38,7 @@ We went to speak with different actors who gave us advice or agreed for a possib
 project. The National Council of Women shared their ideas with us about the ways to integrate “non-qualified” women into the society.
 To resolve this issue, they said that their Organization is training women from different communities who have closeness to women
 inside their circle. Then the trained women go door-to-door to inform the others of the possibilities they have. The Organization
-said that this project was efficient because the women are keener to let enter someone from their community if they already had a
-contact with her previously.
+said that this project was efficient because the women are keener to let enter someone from their community if they already had a contact with her previously.
 
 
 Overall, this experience was enriching for our project in terms of partnerships and innovative ideas.  

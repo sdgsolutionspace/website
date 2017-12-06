@@ -5,6 +5,7 @@ date:   2017-11-23 16:03:04 +0200
 categories: wihds17 projects sdgpop
 project : SDG Popularization
 authors : nfark azaidi
+
 ---
 
 Authors: **Neva Fark, Aiman Zaidi**
@@ -20,6 +21,7 @@ The following question was asked in the survey:  Did you know about the Sustaina
 In terms of the open questions, we asked whether the participants found out anything that they weren’t aware of through the video. Most of the responses highlighted that the participants that the participants weren’t well aware about the extent of impacts humans have on the earth. A few responses mentioned the video clips about the meat production factories. This shows that the video clips were effective in garnering the public interest as the participants were able to recall the visuals.
 
 67.7 % participants felt that the video was effective in informing about the SDGs being the solution to reduce environmental degradation, disparities and inequalities. This is useful as it means that there is definitely room for improvement.
+
 
 Suggestions for improvement:
 - Explain what the SDGs are and what can be done and how?

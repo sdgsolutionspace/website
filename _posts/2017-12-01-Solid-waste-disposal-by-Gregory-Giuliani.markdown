@@ -39,6 +39,8 @@ Image 3
 
 Crowdsourcing is proving to be a valuable and innovating tool for collecting data on solid waste landfills while getting the public involved. The public has been able to create a detailed database and map of Kinshasa which didn’t exist before. This provides data for local authorities to take action against waste. The main challenge is the sufficiency of data quality. Crowdsourcing is proving to be a new innovative method to resolve issues on a local level while involving the citizens. As the local citizens experience the real life issues, they are able to contribute and make a difference in the area they live in. In terms of challenges, it is essential to keep the citizens motivated to maintain their participation and keep adding new information and to get more people involved.
 
+
 We (the authors) believe that this workshop was very useful for us and the class context, as Kinshasa has set an example of using a low budget, low maintenance program that requires the least technological knowledge to create a change in the community. In addition to this, the method for crowdsourcing allows the community to be involved in the process and make a difference. We believe the same idea of using basic technology and locals can be replicated and used in many different contexts and other countries, including to solve other important issues mentioned in the 2030 Agenda.
+
 
 By Cassandre de Froidment and Aiman Zaidi

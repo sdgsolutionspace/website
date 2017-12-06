@@ -24,11 +24,13 @@ A possible solution for improvement of the ‘Hope’ part could be, to pick up 
 
 Suggestions for further improvements and possible next steps have been made by the class and are summarized here below. We split them into the following two categories.
 
+
 1. Adjustments to be made to the video:
 
 - Make the message of the ‘Hope’ part more clear, motivate people more (for example by stories of  people of different origins and mother tongues, working on projects towards the SDGs, as mentioned above).
 - Improve the overall quality of the video (use better camera, sound recording, higher resolution images, more professional video editing program such as Adobe for example)
 - Adjust or translate the SDG logo to the different language regions
+
 
 2. Steps to be taken in terms of video distribution:
 

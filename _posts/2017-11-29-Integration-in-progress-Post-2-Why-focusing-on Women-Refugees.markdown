@@ -14,12 +14,12 @@ Integration in Progress - Post 2 - Why Focusing on Women Refugees?
 
 The specific context of Geneva in the refugee “crisis”:
 
+
 Firstly, the following are some statistics which bring a good understanding of the local situation in Geneva, regarding the number of refugees that are requesting for an asylum seeking status  in the Canton of Geneva.
 
 According to the Office Cantonal de la Statistique, in 2015, 7’586 people were involved in the asylum procedure in the Canton of Geneva, among which 2’151 people were asylum seekers with a permit N, 2’094 people with a permit F and 2’362 people were recognized as refugees with a permit B or C. Finally, 979 people were denied of their request, however they were given support to return to their country of origin.
 
 Furthermore, nationalities that are the most represented in Switzerland and in Geneva are the following : Eritrea (539), Afghanistan (393), Syria (242), Irak (180), Sri Lanka (97), Somalia (65) et Nigeria (61).
-
 
 Adopting a Gender Perspective:
 

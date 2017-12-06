@@ -9,6 +9,7 @@ authors : rgalhardi yzhou ejin
 
 Authors: **Regina Galhardi, Yimin Zhou, Ellen Jin**
 
+
 Hello everyone! We are checking in to update you on the midterm presentation of our project that took place on the morning of November 17th in the SDG Solution Space. We first talked about the global impact of our problem, then the objectives of our project, the midterm rescope, and lastly summarized the progress we made so far.
 
 1. Global Impact
@@ -23,6 +24,7 @@ Plastics production has increased from 15 million tons in 1964 to 311 million to
 <center><img src="/images/Figure 2. the management of waste plastic.png" alt="" width="80%"></center>
 <br>
 
+
 China is responsible for about 28% of the plastic being swept into oceans. Currently, the overall recovery rate of online-ordering food containers is very low. Food delivery services have proliferated since last year, which creates large amounts of waste due to the plastic containers, bags and utensils used. The biggest food delivery app in China have between 14 to 18 million monthly users. Each company foresees 4 to 5 million orders/day.
 
 2. The objectives of the project are twofold:
@@ -30,6 +32,7 @@ China is responsible for about 28% of the plastic being swept into oceans. Curre
 1) identify the best alternative for plastic food container (e.g. plastic, degradable plastic, biodegradable, wood and glass) by using the life cycle assessment (LCA) methodology to assess the environmental impact of plastic food containers and other food containers made of alternative materials; and
 
 2) track and measure plastic pollution from food ordering service by using GPS tracking system to map the footprint of plastic food container disposal. Appropriate asset tracker need to be identified, one example as seen figure 3.
+
 
 <br>
 <center><img src="/images/Figure 3 asset tracker.jpg" alt="" width="80%"></center>
@@ -44,6 +47,7 @@ According to ISO 14040 series, LCA is the only internationally accepted method f
 <br>
 <center><img src="/images/Figure 4. the life cycle of plastic food container.png" alt="" width="80%"></center>
 <br>
+
 
 Beyond the end of this semester, it is highly possible to carry on the project into the rest two phases. For instance, design a business plan for the best option, provide advisory services to government policy-makers, and promote education campaigns in collaboration with NGOs and/or other institutions interested to raise consumers awareness.
 
