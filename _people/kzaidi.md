@@ -1,6 +1,6 @@
 ---
 layout: people
-id : kzaidi
+user_id : kzaidi
 title: Komal Zaidi
 nationality: Pakistani
 spoken_languages : Urdu English French

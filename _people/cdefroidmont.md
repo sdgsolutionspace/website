@@ -1,6 +1,6 @@
 ---
 layout: people
-id : cdefroidmont
+user_id : cdefroidmont
 title: "Cassandre de Froidmont"
 nationality: Belgian French
 spoken_languages : French English Spanish

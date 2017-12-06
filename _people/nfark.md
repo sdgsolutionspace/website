@@ -1,6 +1,6 @@
 ---
 layout: people
-id : nfark
+user_id : nfark
 title: Neva Fark
 nationality: Swiss
 spoken_languages : Swiss German, German, English, French Chinese Italian

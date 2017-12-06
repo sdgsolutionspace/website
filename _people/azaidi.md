@@ -1,6 +1,6 @@
 ---
 layout: people
-id : azaidi
+user_id : azaidi
 title: Aiman Zaidi
 nationality: Pakistani
 spoken_languages : Urdu, English, French

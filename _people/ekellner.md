@@ -1,6 +1,6 @@
 ---
 layout: people
-id : ekellner
+user_id : ekellner
 title: Emmanuel Kellner
 nationality: Swiss French Italian
 spoken_languages : French English Spanish

@@ -1,6 +1,6 @@
 ---
 layout: people
-id : cjeannet
+user_id : cjeannet
 title: "Coline Jeannet"
 nationality: Swiss Spanish
 spoken_languages : French English German Spanish Portuguese

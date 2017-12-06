@@ -1,6 +1,6 @@
 ---
 layout: people
-id : msteffen
+user_id : msteffen
 title: Miriam Steffen
 nationality: Swiss
 spoken_languages : Swiss German, German, English, French, Spanish

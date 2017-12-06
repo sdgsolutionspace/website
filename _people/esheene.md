@@ -1,6 +1,6 @@
 ---
 layout: people
-id : esheene
+user_id : esheene
 title: "Emily Sheene"
 nationality: American
 spoken_languages : English Spanish

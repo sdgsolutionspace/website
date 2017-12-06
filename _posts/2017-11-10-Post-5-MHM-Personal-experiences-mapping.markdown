@@ -2,9 +2,10 @@
 layout: post
 title:  "Post 5 MHM: Personal experiences mapping"
 date:   2017-11-10 16:03:04 +0200
-categories: jekyll update lectures
+categories: wihds17 projects mhm_musketeers
+project : MHM Musketeers
+authors : ldonati cdefroidmont cjeannet smahamad esheene msteffen
 ---
-
 Authors: **Ludovica Donati, Cassandre de Froidmont, Coline Jeannet, Samsam Mahamad, Emily Sheene, Miriam Steffen**
 
 Hello everybody and here’s to another blog post from the one and only MHM Musketeers! You must be curious about what we’ve been up to the last week, so let’s not waste any more time…
@@ -26,14 +27,14 @@ Samsam’s and Miriam’s experience collecting data in Geneva:
 <br>
 On the following day, I was joined by Samsam to continue mapping the products in the Cornavin neighbourhood in Geneva. It’s definitely more fun together and so we happily went off and explored the stores around the train station. The initial high spirits already shifted to exhaustion after the second store with Samsam basically crawling on the floor counting all the products and Miriam’s hand cramping due to writing down all the details. After taking a few awkward selfies to capture the experience for this blog, we were quite relieved to finish our work....
 
-Ludo’s experience collecting data in Vienna: 
+Ludo’s experience collecting data in Vienna:
 <center><img src="/images/Ludo in Store.JPG" alt=""  width="30%"></center>
 <br>
 <br>
 I started my collection of data with very high and motivated spirit, but to be honest this attitude shifted quite fast ;) I never ever had realized how many kind, size and type of menstrual hygiene could exist! Just to mention an example I spent 1h30 in the second shop I visited filling up my excel table. Plus the shop assistants were not so happy about my “awkward” presence for hours in front of their products and pretended some explanations (in German of course!).. well that’s the moment I became very creative ;).
 
 In fact(17-November-2017) we’re going present our most important findings to our classmates and mentors. We will keep you posted!
- 
+
 All our bleeding love
 <br>
 The MHM Musketeers

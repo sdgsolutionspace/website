@@ -1,6 +1,6 @@
 ---
 layout: people
-id : youyang
+user_id : youyang
 title: "Ying Ouyang"
 nationality: Chinese
 spoken_languages : Chinese English

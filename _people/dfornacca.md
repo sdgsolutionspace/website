@@ -1,6 +1,6 @@
 ---
 layout: people
-id : dfornacca
+user_id : dfornacca
 title: "Davide Fornacca"
 nationality:
 spoken_languages :

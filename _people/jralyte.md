@@ -1,6 +1,6 @@
 ---
 layout: people
-id : jralyte
+user_id : jralyte
 title: "Jolita Ralyte"
 nationality:
 spoken_languages :

@@ -1,6 +1,6 @@
 ---
 layout: people
-id : tmaillart
+user_id : tmaillart
 title: Thomas Maillart
 nationality: French
 spoken_languages : French, English German

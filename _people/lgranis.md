@@ -1,6 +1,6 @@
 ---
 layout: people
-id : lgranis
+user_id : lgranis
 title: Loukas Granis
 nationality: Swiss, Greek
 spoken_languages : French (native), English (fluent), Romanian (convers.), Spanish (basic), Greek (basic), Italian (basic)

@@ -2,7 +2,9 @@
 layout: post
 title:  "CrowdSoil: Encounter with Samuel Emery from (HEPIA)"
 date:   2017-11-15 16:03:04 +0200
-categories: jekyll update lectures
+categories: wihds17 projects crowdsoil
+project : CrowdSoil
+authors : lgaranis apmarty oschaub mveloso
 ---
 
 Authors: **Loukas Garanis, Anne-Pia Marty, Océane Schaub & Marcelo Veloso**
@@ -16,14 +18,14 @@ To test the chemical composition of soil is very complicated because the chemica
 This is further complicated by the fact that mos of the artificially-introduced chemicals tend to get modified by oxidation of partial processing from bacteria. Chemical testing thus rarely find the molecule introduced and is often unable to detect any by-products that remain after alteration.
 
 	2) What should you look for when evaluating the soil?
-The first thing to know is the historic of the soil ie what was there before and what is there now. 
+The first thing to know is the historic of the soil ie what was there before and what is there now.
 Also, one needs to take a close look at what grows on the soil. The presence of plants is often a good sign but some plants, when present in a large amount, are indicators of a particular soil’s acidity, humidity or toxicity. One good indicator is to bring some of the soil home and try to plant some specific kinds of seed on it to see if they grow in a controlled environment.
 Another thing to look at is the soil itself, its color, odor and texture.
 Once those first few assessments are done, a few other tests can be done with more material.
 
 The main tests we talked about with Samuel are to test the soil composition and compaction (spade test), the amount of biologic activity (barber test), the infiltrometry (beer can test), the proportion of clay, sand and silt (glass jar test).
 
-Additionally, some other test can be done like an acidity (pH) test and a Nitrate test. Those require some more chemical testing. 
+Additionally, some other test can be done like an acidity (pH) test and a Nitrate test. Those require some more chemical testing.
 More extensive tests can include inorganic chemical testing and require more heavy equipment to do a full background check of the chemical composition of a tested soil.
 
 3) Remediation.

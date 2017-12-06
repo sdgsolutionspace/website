@@ -1,7 +1,7 @@
 ---
 layout: people
 title: "Miya Yang Fan"
-id : myfan
+user_id : myfan
 nationality: Chinese
 spoken_languages : Chinese (native), English (fluent)
 skills : international communication, advertising, design

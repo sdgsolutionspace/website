@@ -1,6 +1,6 @@
 ---
 layout: people
-id : yzhou
+user_id : yzhou
 title: "Yimin Zhou"
 nationality: Chinese
 spoken_languages : Chinese English French

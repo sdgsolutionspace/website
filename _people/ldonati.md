@@ -1,6 +1,6 @@
 ---
 layout: people
-id : ldonati
+user_id : ldonati
 title: "Ludovica Donati"
 nationality: Swiss
 spoken_languages : {Italian : native, French : fluent, English : fluent, Spanish : fluent, German : good, Chinese : beginner}

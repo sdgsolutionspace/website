@@ -1,7 +1,7 @@
 ---
 layout: people
-id : tli
-title: "Tina Li"
+user_id : tla
+title: "Tina La"
 nationality: Swiss
 spoken_languages : Italian French English Chinese German
 background : International Relations

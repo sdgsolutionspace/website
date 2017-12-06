@@ -1,6 +1,6 @@
 ---
 layout: people
-id : jmdurney
+user_id : jmdurney
 title: "Jean-Marie Durney"
 nationality: French
 spoken_languages : French English

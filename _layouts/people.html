@@ -30,20 +30,21 @@ layout: default
 
 -->
 <br>
-<strong> Recent Blog Posts :</strong><br>
+<strong> Blog Posts :</strong><br>
 
-  {% for p in site.posts %}
-    {% for author in p.authors %}
-      <!--{{ page.id}} {{author}} <br>-->
-      {% if page.id == author %}
-        {{p.title}} ({{p.date | escape}})<br><br>
-      {% endif %}
+
+<div class="post-content">
+  {% for item in site.posts %}
+    {% assign authors = item.authors | split: " " %}
+    {% for author in authors %}
+    {% if author == page.user_id %}<p><h4><a href="{{item.url}}">{{ item.title}}</a></h4></p>
+    {% endif %}
     {% endfor %}
   {% endfor %}
 
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+</div>
+
+
 
 </article>

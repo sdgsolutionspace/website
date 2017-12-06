@@ -1,6 +1,6 @@
 ---
 layout: people
-id : apmarty
+user_id : apmarty
 title: Anne-Pia Marty
 nationality: French
 spoken_languages : French English Italian
@@ -12,5 +12,4 @@ leisure :
 photo :
 categories: wihds17 students
 lang: en
-permalink : /people/apmarty
 ---

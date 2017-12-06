@@ -1,6 +1,6 @@
 ---
 layout: people
-id : ejin
+user_id : ejin
 title: Ellen Jin
 nationality: Chinese
 spoken_languages : Chinese English

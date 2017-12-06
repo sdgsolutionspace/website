@@ -1,6 +1,6 @@
 ---
 layout: people
-id : ggiuliani
+user_id : ggiuliani
 title: "Gregory Giuliani"
 nationality:
 spoken_languages :

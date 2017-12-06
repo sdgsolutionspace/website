@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Ecosystem Services and the SDGs"
+teacher : "Anthony Lehmann"
 date:   2017-10-05 16:03:04 +0200
-categories: jekyll update
+categories: wihds17 lectures
+authors : oschaub nfark
 ---
 
 Authors: **Océane Schaub,Neva Fark**

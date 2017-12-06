@@ -1,6 +1,6 @@
 ---
 layout: people
-id : mveloso
+user_id : mveloso
 title: Marcelo Veloso
 nationality:
 spoken_languages :

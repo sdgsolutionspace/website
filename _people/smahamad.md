@@ -1,6 +1,6 @@
 ---
 layout: people
-id : smahamad
+user_id : smahamad
 title: Samsam Mahamad
 nationality: Canadian
 spoken_languages : Somali, English, French

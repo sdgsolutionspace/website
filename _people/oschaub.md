@@ -1,6 +1,6 @@
 ---
 layout: people
-id : oschaub
+user_id : oschaub
 title: "Oceane Schaub"
 nationality: Swiss French
 spoken_languages : French English Spanish German

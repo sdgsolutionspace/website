@@ -1,6 +1,6 @@
 ---
 layout: people
-id : kpolyakova
+user_id : kpolyakova
 title: "Katerina Polyakova"
 nationality: Swiss Ukrainian
 spoken_languages : French Russian Ukrainian English German Chinese

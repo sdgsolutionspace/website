@@ -1,6 +1,6 @@
 ---
 layout: people
-id : fahmeti
+user_id : fahmeti
 title: "Fatime Ahmeti"
 nationality: Swiss Polish
 spoken_languages : French English Polish Italian
