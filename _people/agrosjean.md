@@ -1,6 +1,6 @@
 ---
 layout: people
-user_user_id : agrosjean
+user_id : agrosjean
 title: Amaëlle Grosjean
 nationality:
 spoken_languages :
