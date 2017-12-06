@@ -32,12 +32,12 @@ We presented our project and how our reflection has evolved so far to our peers 
 <br>
 
 In the idea of making the protocols accessible, we have the idea of making them fun as well.
-Some people were sceptical about how fun this kind of protocol would be, and if it would really incentivise people to play.
+Some people were skeptical about how fun this kind of protocol would be, and if it would really incentivise people to play.
 Our answer to that comment is as follows: The gamification will probably not make people play if they are not interested in the subject in the first place. However, making the protocols fun would be a great asset if we propose this app to teachers in the context of classroom projects. The fun part of the app will probably not influence the adoption of the app but encourage players to play further.
 
 <u>Why should people care about the crowdsourcing aspect?</u>
 <br>
-This project is in two parts that have indeed few ties to each other. One part is the protocols and community built around soil assessment; the other is the crowdsourcing. Although the individual users may not be directly interested in the state of all the soils, the aggregation of information has its importance for the following reasons:
+This project is in two parts that have indeed few ties to each other. One part is the protocol and community built around soil assessment; the other is the crowdsourcing. Although the individual users may not be directly interested in the state of all the soils, the aggregation of information has its importance for the following reasons:
 <br>
 - Finding solutions. The context of each soil is not in a vacuum and knowing what happens in our neighbor's field may be a determining factor in knowing how to rehabilitate ours.
 <br>
