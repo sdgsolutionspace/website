@@ -2,7 +2,7 @@
 layout: post
 title:  "Integration in Progress: Hackaton"
 date:   2017-12-06 21:30:04 +0200
-categories: wihds17 projects iintegration
+categories: wihds17 projects iinprogress
 project : "Integration in Progress"
 authors : fahmeti agrosjean
 ---
