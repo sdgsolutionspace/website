@@ -34,7 +34,7 @@ As you can see in image 2, after thinking about what is access and how a map wou
 This platform would be useful on three aspects; it would raise awareness on the issues women have to face and deal with every month, it would allow the collection of data on facilities and product access and last but not least, it would create a community where anyone would have the possibility to share their experiences and feelings related to menstruation, all of which would contribute to women’s empowerment, one of the main goals of this project. There are of course still some challenges and questions we still need to deal with in order to make this project successful, such as how to reach people who are illiterate, how to get people to start using the map and where to start setting up the map but we are confident that we will manage!
 
 <br>
-<center><img src="/images/Drawing Access MHM.jpg" alt=""  width="60%"></center>
+<center><img src="/images/Drawing_Access_MHM.jpg" alt=""  width="80%"></center>
 <br>
 <br>
 
