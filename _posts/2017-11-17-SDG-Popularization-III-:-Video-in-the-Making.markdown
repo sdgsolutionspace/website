@@ -15,6 +15,7 @@ Video in the making
 
 <br>
 <center><img src="/images/nevaimz.png" alt=""  width="90%"></center>
+<br>
 
 Process:
 

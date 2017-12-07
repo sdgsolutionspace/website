@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SDG Popularization V: Presentation Feedback"
-date:   2017-11-17 16:03:04 +0200
+date:   2017-11-23 16:04:04 +0200
 categories: wihds17 projects sdgpop
 project : SDG Popularization
 authors : nfark azaidi
