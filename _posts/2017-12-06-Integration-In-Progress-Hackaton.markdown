@@ -2,7 +2,9 @@
 layout: post
 title:  "Integration in Progress: Hackaton"
 date:   2017-12-06 21:30:04 +0200
-categories: jekyll update lectures
+categories: wihds17 projects iintegration
+project : "Integration in Progress"
+authors : fahmeti agrosjean
 ---
 
 Authors : **Fatime Ahmeti & Amaelle Grosjean**
