@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Midterm Post 6 MHM: Interim Presentation"
+title:  "Post 6 MHM: Interim Presentation"
 date:   2017-11-30 16:03:04 +0200
 categories: wihds17 projects mhm_musketeers
 project : MHM Musketeers
 authors : ldonati cdefroidmont cjeannet smahamad esheene msteffen
 ---
 
-Authors: **Ludovica Donati, Cassandre de Froidmont, Coline Jeannet, Samsam Mahamad, Emily Sheene, Miriam Steffen**
+Authors: **Ludovica Donati, Cassandre de Froidmont, Coline Jeannet, Samsam Mahamed, Emily Sheene, Miriam Steffen**
 
 Hello MHM groupees! We are checking in to update you on the midterm presentation of our project that took place on the afternoon of November 17th in the SDG Solution Space. We first introduced our project idea (if you don’t know about it, go check out our previous post number 4), reiterated why such a project is important, talked about who could use the collected data and discussed the current status and challenges we are facing with moving our project forward. Since we have already given you guys most of the details in previous posts, here we will only summarize the feedback we received from the audience and how we envision our project progressing after this point.
 
