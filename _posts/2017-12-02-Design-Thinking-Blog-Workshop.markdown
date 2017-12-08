@@ -21,7 +21,7 @@ Following this, we had to generate five products that would solve our partner’
 
 
 <br>
-<center><img src="/images/work.jpg" alt=""  width="60%"></center>
+<center><img src="/images/FullSizeRender.jpg" alt=""  width="60%"></center>
 <br>
 
 
