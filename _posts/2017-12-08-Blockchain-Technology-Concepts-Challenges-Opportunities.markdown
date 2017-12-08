@@ -7,7 +7,7 @@ categories: wihds17 lectures
 authors : cdefroidmont msteffen yzhou
 ---
 
-Authors: **Cassandre De Froidmont, Miriam Steffen and Yimin Zhou**
+Authors: **Cassandre de Froidmont, Miriam Steffen and Yimin Zhou**
 
 On the 30th of November, Jean-Henry Morin, a professor at the University of Geneva focusing on information systems and services, gave a fascinating presentation on blockchain technology. Explaining this topic to students who have no or very little background in IT surely wasn’t an easy task. However, with his obvious passion for the subject and a good portion of humour professor Morin managed to make us all a little bit wiser on the topic.
 
