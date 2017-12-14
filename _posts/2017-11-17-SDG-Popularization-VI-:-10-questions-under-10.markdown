@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SDG popularization VI: 10 questions under 10 "
+title:  "SDG Popularization VI: 10 questions under 10 "
 date:   2017-11-17 16:03:04 +0200
 categories: wihds17 projects sdgpop
 project : SDG Popularization
