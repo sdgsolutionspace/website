@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Integration in Progress - Introduction POST 1 "
+title:  "Integration in Progress - Introduction "
 date:   2017-11-27 16:03:04 +0200
 categories: wihds17 projects iinprogress
 project : Integration in Progress
