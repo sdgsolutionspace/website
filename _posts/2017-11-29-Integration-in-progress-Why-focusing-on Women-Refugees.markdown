@@ -9,7 +9,7 @@ authors : agrosjean kpolyakova
 
 Authors: **Amaëlle Grosjean & Katerina Polyakova**
 
-Integration in Progress - Post 2 - Why Focusing on Women Refugees?
+Integration in Progress - Why Focusing on Women Refugees?
 
 
 The specific context of Geneva in the refugee “crisis”:
