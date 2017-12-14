@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SDG Popularization VIII: The Tool "
+title:  "SDG Popularization VIII: The Tools "
 date:   2017-12-14 16:03:04 +0200
 categories: wihds17 projects sdgpop
 project : SDG Popularization
@@ -9,7 +9,7 @@ authors : nfark azaidi
 
 Authors: **Neva Fark, Aiman Zaidi**
 
-Blogpost 8: The tool
+Blogpost 8: The tools
 
 How to film a “What can you do about the SDGs” Video
 
