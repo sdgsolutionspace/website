@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Integration in Progress - World Youth Forum for Peace "
