@@ -3,7 +3,7 @@ layout: people
 user_id : msteffen
 title: Miriam Steffen
 nationality: Swiss
-spoken_languages : Swiss German, German, English, French, Spanish
+spoken_languages : German, English, French
 background : Tourism
 wants_to_learn :
 wants_to_achieve :
