@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Integration in Progress - Post 2 Why Focusing on Women Refugees? "
+title:  "Integration in Progress - Why Focusing on Women Refugees? "
 date:   2017-11-29 16:03:04 +0200
 categories: wihds17 projects iinprogress
 project : Integration in Progress
