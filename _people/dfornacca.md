@@ -2,9 +2,9 @@
 layout: people
 user_id : dfornacca
 title: "Davide Fornacca"
-nationality:
-spoken_languages :
-background :
+nationality: Swiss & Italian
+spoken_languages : Italian, French, English, German, Chinese
+background : Geography, Remote Sensing and GIS
 wants_to_learn :
 wants_to_achieve :
 leisure :
