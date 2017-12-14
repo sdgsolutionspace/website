@@ -9,7 +9,7 @@ authors : kzaidi fahmeti
 
 Authors: **Komal Zaidi & Fatimé Ahmeti**
 
-Integration in Progress - Introduction POST 1
+Integration in Progress - Introduction 
 
 Who are we?
 
