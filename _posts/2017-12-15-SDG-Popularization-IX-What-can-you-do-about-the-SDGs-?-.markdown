@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SDG Popularization IX: What can you do about the SDGs"
-date:   2017-12-14 16:03:04 +0200
+date:   2017-12-15 16:03:04 +0200
 categories: wihds17 projects sdgpop
 project : SDG Popularization
 authors : nfark azaidi
