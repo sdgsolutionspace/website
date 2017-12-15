@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SDG Popularization VII: The Videos "
-date:   2017-12-14 16:20:04 +0200
+date:   2017-12-13 16:20:04 +0200
 categories: wihds17 projects sdgpop
 project : SDG Popularization
 authors : nfark azaidi
