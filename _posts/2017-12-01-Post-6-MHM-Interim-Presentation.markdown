@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Post 6 MHM: Interim Presentation"
-date:   2017-11-30 16:03:04 +0200
+date:   2017-11-17 16:03:04 +0200
 categories: wihds17 projects mhm_musketeers
 project : MHM Musketeers
 authors : ldonati cdefroidmont cjeannet smahamad esheene msteffen
