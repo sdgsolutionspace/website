@@ -17,7 +17,7 @@ We contacted interviewees personally to tell them about our project and upon the
 
 Miya Yang, student at University of Geneva
 
-Our first participant was Miya Yang who is a fellow student on our Masters course. She is currently working on a project about air pollution in Geneva. As she is from China, she has experienced extreme air pollution however, her project is highlighting the pollution in Geneva which isn’t considered a problem in the public eye. It would also be interesting for the Chinese public to become aware of the existence of pollution in Europe. 
+Our first participant was Miya Yang who is a fellow student on our Masters course. She is currently working on a project about air pollution in Geneva. As she has lived in Beijing, she has experienced extreme air pollution however, her project is highlighting the pollution in Geneva which isn’t considered a problem in the public eye. It would also be interesting for the Chinese public to become aware of the existence of pollution in Europe. 
 
 We thought it would be interesting to invite her for our video series as her project is directly linked with the SDGs related to the environment and land degradation. Also it would be inspiring to see students genuinely involved in improving the local environment. We filmed her outside Uni-mail, Unige, Geneva. 
 
