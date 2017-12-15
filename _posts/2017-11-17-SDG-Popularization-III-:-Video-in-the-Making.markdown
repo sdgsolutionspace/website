@@ -53,6 +53,10 @@ Video made and exported using iMovie
 
 https://drive.google.com/file/d/1wd683cxpnH3br9r1aqO3rZKWbIbY0GRY/view?usp=sharing
 
+Here is a link of our video on youtube:
+
+https://www.youtube.com/watch?v=AlqU-m4bhnY&feature=youtu.be
+
 2. A survey was made using the Google forms  in order to gather data.
 
 The aim of the survey is to measure the effectiveness of the video. We want to measure whether the video was able to create awareness about global issues and the SDGs as solutions to these problems. In terms of the questions, we asked the age and gender of the participants in order to find out who our target audience is. The main questions asked if the participants were aware of the SDGs before watching the video and whether the video was effective in informing them about the existence and the applicability of the SDGs
