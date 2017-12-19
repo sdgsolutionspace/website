@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Post 1: MHM Musketeers Introduction"
+title:  "SDG Lab Geneva Ecosystem Update"
 date:   2017-12-04 13:03:01 +0200
 categories: wihds17
-project : "SDG Lab Geneva Ecosystem Update"
 authors : ekellner
 ---
 
