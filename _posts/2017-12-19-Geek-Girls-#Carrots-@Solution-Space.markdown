@@ -12,7 +12,7 @@ Authors : **Fatime Ahmeti**
 <div align="justified">
 
 <b>Geek Girls #Carrots @Solution Space</b>
-
+<br>
 <br>
 <center><img src="/images/ggc0.jpg" alt="Geek Girls Carrots logo 2017" align="middle" border="2"  width="45%"></center>
 <br>
@@ -39,6 +39,5 @@ In order to answer to this question, our guest speaker conducted a survey on 359
 <br>
 However <i>“Creativity in Code”</i> project does not target exclusively girls in Ukraine. Thanks to genuine people, <a href="https://wemakeit.com/projects/creativity-in-code"><i>various workshops</i></a> are available to be attended also in Geneva by children and adults with a focus on women and girls.
 Consequently, the lead thought is to empower all the girls of today around the world, in order to help them become the leaders of tomorrow.
-<br>
 <br>
 <center><img src="/images/ggc12.jpg" alt="Geek Girls Carrots 3 2017" align="middle" border=""  width="38%"></center>
