@@ -39,4 +39,4 @@ In order to answer to this question, our guest speaker conducted a survey on 359
 
 However <i>“Creativity in Code”</i> project does not target exclusively girls in Ukraine. Thanks to genuine people, <a href="https://wemakeit.com/projects/creativity-in-code"><i>various workshops</i></a> are available to be attended also in Geneva by children and adults with a focus on women and girls.
 Consequently, the lead thought is to empower all the girls of today around the world, in order to help them become the leaders of tomorrow.
-<center><img src="_/images/ggc12.jpg" alt="Geek Girls Carrots 3 2017" align="middle" border="4"  width="38%"></center>
+<center><img src="/images/ggc12.jpg" alt="Geek Girls Carrots 3 2017" align="middle" border="4"  width="38%"></center>
