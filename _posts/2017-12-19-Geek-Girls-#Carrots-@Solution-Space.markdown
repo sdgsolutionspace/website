@@ -14,13 +14,13 @@ Authors : **Fatime Ahmeti**
 <b>Geek Girls #Carrots @Solution Space</b>
 
 
-<center><img src="ggc0.jpg" alt="Geek Girls Carrots logo 2017" align="middle" border="4"  width="45%"></center>
+<center><img src="images/ggc0.jpg" alt="Geek Girls Carrots logo 2017" align="middle" border="4"  width="45%"></center>
 
 A meaningful collaboration emerged recently between <b>Solution Space</b> and <b>Geek Girls Carrots Geneva</b>.
 <a href="http://geekgirlscarrots.org/"><b>Geek Girls Carrots</b></a> is a global organisation aiming to create a community of women in IT.
 The initiative wish to attract more women to technology and through regular meet-ups gives them the opportunity to share their knowledge and experience. The organisation is present already in 15 countries, mostly in Europe, but also Japan, South Korea, and Israel. 
 <br>
-<center><img src="ggc1.jpg" alt="Geek Girls Carrots 2017" align="middle" border="4"  width="55%"></center>
+<center><img src=" images/ggc1.jpg" alt="Geek Girls Carrots 2017" align="middle" border="4"  width="55%"></center>
 <br>
 <br>
 
@@ -39,4 +39,4 @@ In order to answer to this question, our guest speaker conducted a survey on 359
 
 However <i>“Creativity in Code”</i> project does not target exclusively girls in Ukraine. Thanks to genuine people, <a href="https://wemakeit.com/projects/creativity-in-code"><i>various workshops</i></a> are available to be attended also in Geneva by children and adults with a focus on women and girls.
 Consequently, the lead thought is to empower all the girls of today around the world, in order to help them become the leaders of tomorrow.
-<center><img src="ggc12.jpg" alt="Geek Girls Carrots 3 2017" align="middle" border="4"  width="38%"></center>
+<center><img src="images/ggc12.jpg" alt="Geek Girls Carrots 3 2017" align="middle" border="4"  width="38%"></center>
