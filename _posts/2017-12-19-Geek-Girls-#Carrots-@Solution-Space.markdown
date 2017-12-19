@@ -14,7 +14,6 @@ Authors : **Fatime Ahmeti**
 <b>Geek Girls #Carrots @Solution Space</b>
 <br>
 <br>
-<br>
 <center><img src="/images/ggc0.jpg" alt="Geek Girls Carrots logo 2017" align="middle" border="2"  width="45%"></center>
 <br>
 A meaningful collaboration emerged recently between <b>Solution Space</b> and <b>Geek Girls Carrots Geneva</b>.
