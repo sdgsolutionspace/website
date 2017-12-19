@@ -13,11 +13,8 @@ Authors: **Ludovica Donati, Cassandre de Froidmont, Coline Jeannet, Samsam Maham
 Hello everyone, here we are again! Interviews, Part 2.As you might remember from our last blog post, we are on a hunt to gather as much information from MHM expects in the field. As you’ve probably realized, our
 aim is to identify what is the most useful MHM data to collect? 
 
-
 <br>
-<center><img src="/images/ugandaforherfinallogo.jpg  " alt=""  width="60%"></center>
-<br>
-
+<center><img src="/images/ugandaforherfinallogo.jpg " alt=""  width="70%"></center>
 
 We got a chance to have a skip interview with Bernard Serunyigo, the director of Operations/Co-founder of Uganda 4 Her.  The organization aims at promoting reproductive health, education, leadership, and economic empowerment. Check out their amazing wor here: http://uganda4her.org/.Our interview with Bernard was super insightful! He indicated that it would not
 be useful to map products. However, it would be more useful to focus on mapping facilities. Luck for us, Sierra Lindsay (expert on MHM) joined our skyped discussion. She indicated that you can buy products everywhere! Hence, the problem lies in overall affordability.She also insisted that we should focus on mapping access to free products.
@@ -29,9 +26,7 @@ link to gender disparities. Can you see a pattern? All of the people we’ve int
 
 
 <br>
-<center><img src="/images/FSg1.jpg  " alt=""  width="60%"></center>
-<br>
-
+<center><img src="/images/FSg1.jpg " alt=""  width="70%"></center>
 
 Curious about where all this information will lead us? That, my dear friends, is how we’ve created (Fem.Friendly)! Want to know
 more, do not miss our next blog post! 
