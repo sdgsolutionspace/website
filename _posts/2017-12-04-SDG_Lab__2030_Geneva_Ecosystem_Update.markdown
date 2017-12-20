@@ -6,6 +6,8 @@ categories: wihds17
 authors : ekellner
 ---
 
+Authors: **Emmanuel Kellner**
+
 Yesterday I attended the SDG Lab 2030 Geneva ecosystem update. The meeting was hosted by the Graduate Institute.
 
 Here are a few takeaways:
