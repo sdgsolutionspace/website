@@ -25,12 +25,19 @@ No exaggerations with the comfort level here!
 <br>
 
 In addition to all the chill open space, there is also technology. Lots and lots of fun technology. Let me debrief it all for you. Here’s what you can find in the Solution Space:
+
 -surround sound
+
 -two 4K Sony televisions (75 inches)
+
 -projector
+
 -big printer (see below)
+
 -little printer (see below)
+
 -two Go Pros (hero 4 session) + more on the way!
+
 -coffee machines (the most underrated piece of equipment if you ask me)
 
 <br>
@@ -44,17 +51,29 @@ In addition to all the chill open space, there is also technology. Lots and lots
 <br>
 
 Specifically in the FabLab you can find:
--3D printer (Ultimaker 2+) using Cura software
+
+-3D printer (Ultimaker 2+) using Cura software:
+
     -equipped to print PLA recyclable (corn, etc.) & ABS petrol
+    
 -Vinyl cutter (Roland CAMM-1 GS 24)
--Laser Cutter (TROTEC Speedy 360)
+
+-Laser Cutter (TROTEC Speedy 360):
+
      -Can engrave & cut plastic, glass (engrave only), acrylic, MDF, different plywood and denim among other things
--CNC Milling Machine (Roland MDX40A)
+
+-CNC Milling Machine (Roland MDX40A):
+
      -Used for prototyping, molding & to make PCB Electronics
+     
      -Can use many materials with this machine
--Big CNC Machine (ShopbotCNC  96 + 48)  will be arriving soon!
+
+-Big CNC Machine (ShopbotCNC  96 + 48)  will be arriving soon:
+
      -Used for molding, to make furniture and other large items
+     
      -Can use materials like wood, MDF and aluminium
+
 -3D Scanner
 
 In addition to these larger machines, there are also many smaller technologies in the FabLab. Here are some pictures of all this groovy equipment!
