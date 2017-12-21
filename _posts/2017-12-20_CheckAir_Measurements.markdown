@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prototyping an air quality sensor"
+title:  "Measuring air quality around Geneva"
 date:   2017-12-01 16:03:04 +0200
 categories: wihds17 projects airmaia
 project : Airmaia
