@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Plastic Pollution:"How does GPS tracker work
+title:  "Plastic Pollution:How does GPS tracker work"
 date:   2017-12-21 12:00:04 +0200
 categories: wihds17 projects plasticpol
 project : Plastic Pollution
@@ -8,6 +8,7 @@ authors : rgalhardi yzhou ejin
 ---
 
 Authors: **Regina Galhardi, Yimin Zhou, Ellen Jin**
+
 
 One of the initial ideas of this project was to map out the life cycle of plastic trash after disposal by consumers of food delivery service, and give the public a visualized impression on where their one-off food containers go after usage.  The original purpose of adopting this GPS tracking system was to convince people to act towards tackling pollution problem, so before we implement the idea, we did a Life cycle assessment. 
 
