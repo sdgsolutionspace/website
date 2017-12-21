@@ -34,11 +34,11 @@ small or medium-sized stone) and the environment around it, in a circumference o
 3) identify the temperature of the air and the earth, analyze a possible difference;
 4) enter in the application the meteorology of the previous days, informed by the teacher (the natural or human watering of the ground can have an impact on the characteristics of this one during the tests);
 5) reflect on man's use of this space (factory, farm, swamp, castle, dwellings, agriculture, etc.) and its impact on his environment.
- Ecosystems (Balance and fragility)
-  Fragility of Ecosystems
-Human impact
- Before-After Man's intervention
-2
+
+<br>
+<center><img src="/images/Screen Shot 2017-12-21 at 17.02.19.png" alt=""  width="80%"></center>
+<br>
+
 3. Unfolding
 The course takes place on 6 sessions of 1h30. Sessions can be daily, weekly, or irregular. Each week, the teacher begins with "In the previous episode ...", a brief reminder of what was done last week and why. This will give a framework and purpose to the experiments. Students can better progress.
 Session 1
@@ -70,13 +70,13 @@ A test corresponds to a session. After each test, the students must discuss, com
       4
 • Branch "Soil structure"
 If students are interested in the land itself, they can move to the "Soil Structure" branch. The tests to be carried out will be the spade test, the flange test and the "Beer Can Test".
-1st test: The spade test is simple, fast and effective. It is simply a case of digging a spade or shovel into the ground about 30 cm deep. Then you have to take out the block of earth and examine it. Several things are worth noting in the app. The number of horizons (different layers of soil), the structure (porous, compact), the size of the aggregates, the difficulty to break these aggregates, the presence or absence of earthworms / roots, etc. Students will then assign a grade from 1 to 5 to the soil sampled on a specific scale (https://www.vd.ch/fileadmin/user_upload/themes/environment/sol/file_pdf/GEO_DE_SOLS_VESS_A_score_chart_EN.pdf). Le test à la bêche permet ainsi d’avoir rapidement une bonne indication de la santé du sol. Le test du boudin, lui, consiste à prendre un peu de terre et la rouler entre ses mains, en essayant de faire un boudin. La forme du boudin indiquera la présence plus ou moins marquée d’argile.
-2ème test : L’autre test à réaliser dans cette branche est le « Beer Can test ». Ce protocole permet de déterminer de façon simple mais scientifique le degré de porosité d’un sol, grâce à une cannette vide. Cela donnera aux élèves des indications précieuses qu’ils pourront ensuite utiliser pour formuler leurs prochaines hypothèses.
-• Branche « Germination »
-Cette orientation est un peu spéciale, dans la mesure où elle va permettre aux élèves d’observer la croissance d’une plante, et donc, le cycle de vie. En effet, une première indication très pertinente de la santé d’un sol c’est tout simplement de savoir si les plantes pousseront dedans. Si elles ne poussent pas, pourquoi ? Terre trop acide ? Trop argileuse ? Trop sableuse ? Toutes ces caractéristiques pourront être déterminées grâce à plusieurs tests. Dans cette branche, les élèves devront tout d’abord ramener en classe une graine et un peu de terre, éventuellement lors de la première sortie.
-1er test : Le test du pH est à effectuer en classe. Pour ce test, il faudra faire en sorte qu’une des sessions se déroule en classe pour tous les élèves. Le test du chou rouge a pour but de déterminer précisément le pH d’un sol. Le protocole a suivre peut être trouvé à l’adresse suivante : http://wiki.scienceamusante.net/index.php?title=Jus_de_chou_rouge.
-2ème test : Le test du bocal lui, permet d’obtenir la composition du sol, en pourcentage de sable, argile et limon, les trois composantes les plus fréquemment trouvées dans les sols Suisse. Le protocole est disponible à cette adresse : https://www.youtube.com/watch?v=nx8b80PmNE4.
+1st test: The spade test is simple, fast and effective. It is simply a case of digging a spade or shovel into the ground about 30 cm deep. Then you have to take out the block of earth and examine it. Several things are worth noting in the app. The number of horizons (different layers of soil), the structure (porous, compact), the size of the aggregates, the difficulty to break these aggregates, the presence or absence of earthworms / roots, etc. Students will then assign a grade from 1 to 5 to the soil sampled on a specific scale (https://www.vd.ch/fileadmin/user_upload/themes/environment/sol/file_pdf/GEO_DE_SOLS_VESS_A_score_chart_EN.pdf). The spade test makes it possible to quickly have a good indication of the health of the soil. The test of the pudding, it is to take a little earth and roll it between his hands, trying to make a pudding. The shape of the pudding will indicate the presence more or less marked clay.
+2nd test: The other test to be carried out in this branch is the "Beer Can test". This protocol makes it possible to determine in a simple but scientific way the degree of porosity of a soil, thanks to an empty can. This will give students valuable insights that they can then use to formulate their next hypotheses.
+• Branch "Germination"
+This orientation is a bit special, as it will allow students to observe the growth of a plant, and therefore, the life cycle. Indeed, a first very relevant indication of the health of a soil is simply to know if the plants will grow in it. If they do not grow, why? Earth too acidic? Too clay? Too sandy? All these characteristics can be determined through several tests. In this branch, students will first have to bring back a seed and a little soil in the classroom, possibly during the first outing.
+1st test: The pH test is to be done in class. For this test, one of the sessions will be held in class for all students. The purpose of the red cabbage test is to precisely determine the pH of a soil. The protocol to follow can be found at the following address: http://wiki.scienceamusante.net/index.php?title=Jus_de_chou_rouge.
+2nd test: The test of the jar him, allows to obtain the composition of the soil, in percentage of sand, clay and silt, the three components most frequently found in the Swiss grounds. The protocol is available at this address: https://www.youtube.com/watch?v=nx8b80PmNE4.
 
 <br>
-<center><img src="/images/Arbre déroulement.pdf" alt=""  width="100%"></center>
+<center><img src="/images/Arbre déroulement.pdf" alt=""  width="80%"></center>
 <br>
