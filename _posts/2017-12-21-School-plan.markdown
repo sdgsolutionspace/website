@@ -13,7 +13,8 @@ Authors: **Océane Schaub, Anne-Pia Marty, Loukas Garanis, Marcelo Veloso**
 <center><img src="/images/Logo CS.png" alt=""  width="50%"></center>
 <br>
 
-1. Introduction
+<b>1. Introduction</b>
+<br>
 Each week, the teacher chooses an activity that will last 2 blocks of lessons (2x45 min). Protocols and tests are thought out to be completed in 1 hour, allowing the teacher time to travel to the playground and an introduction to the day.
 The application will be designed so that groups of several students can work at the same time on the same device (tablets or smartphones). Each group will collect a certain number of points by performing different tests and hypotheses. The team with the most points will be awarded a virtual trophy. We hope to keep the playful and
 competitive application.
@@ -22,7 +23,8 @@ However, it is also possible for the teacher to use it only once, at any stage o
 We believe that the best time to start activities would be the beginning of March or April. Indeed, the weather is more ready to go out and this is the moment when the fauna and flora wake up. In addition, this allows teachers to have already addressed some theoretical elements, which will facilitate the execution and understanding of the protocols.
 According to the PER, several topics and skills will be addressed. In science, the ecosystem (plants, insects, animals) and the cycle of life will be introduced and / or deepened. The whole application is based on the system of the scientific approach. Students will be asked to collect, observe, formulate a hypothesis, test this hypothesis, analyze the test results and then draw a conclusion.
   1
-2. Training and use of the 5 senses
+<b>2. Training and use of the 5 senses</b>
+<br>
 Students will have to improve the use of their senses by making a regular statement on the state of the soil. This analysis will precede the comparison, every week, between the different color changes, the development of the flora and the appearance of the fauna.
 Thus, from the first arrival on the field, students: 1) take pictures at different scales;
 From a point of view and a precise framework, allowing the geo-spatial reproduction, the pupil takes:
@@ -39,7 +41,8 @@ small or medium-sized stone) and the environment around it, in a circumference o
 <center><img src="/images/Screen Shot 2017-12-21 at 17.02.19.png" alt=""  width="80%"></center>
 <br>
 
-3. Unfolding
+<b>3. Unfolding</b>
+<br>
 The course takes place on 6 sessions of 1h30. Sessions can be daily, weekly, or irregular. Each week, the teacher begins with "In the previous episode ...", a brief reminder of what was done last week and why. This will give a framework and purpose to the experiments. Students can better progress.
 Session 1
 This session is theoretical (in class).
