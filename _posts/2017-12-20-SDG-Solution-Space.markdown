@@ -16,7 +16,7 @@ Hello readers! You’ve found yourself at the virtual SDG Solution Space, welcom
 <br>
 So, let me transport you to the place where the magic happens! The Solution Space is located in the Innovation Park building at the Biotech campus in Geneva. The Biotech campus is a joint initiative with a vision to “ensure that the Lake Geneva region and Switzerland as a whole remains at the cutting edge in the fields of biotechnology and life science research” (if you are interested more in the biotech campus, please visit https://www.campusbiotech.ch/en). To enter the biotech buildings, you must have a badge. Yes, that’s right, someone at last has recognized our VIP status!
 
-Ok moving on… the Solution Space is super cool and while disconnected from the other UNIGE buildings, this space feels like our own and is very comfortable and conductive to creative thinking. Attached to the Solution Space is a FabLab. Don’t know what a FabLab is? Head on over at http://fabfoundation.org/index.php/what-is-a-fab-lab/index.html to check it out! 
+Ok moving on… the Solution Space is super cool and while disconnected from the other UNIGE buildings, this space feels like our own and is very comfortable and conductive to creative thinking. Attached to the Solution Space is a FabLab. Don’t know what a FabLab is? Head on over to http://fabfoundation.org/index.php/what-is-a-fab-lab/index.html to check it out! 
 
 No exaggerations with the comfort level here!
 <br>
