@@ -45,7 +45,8 @@ This session represents the first contact with the earth!
 <br><br>
 <i>[45min]</i> The first part is mostly based on observation. This is the first session where students begin to get used to using their senses to analyze the environment: colors (soil, landscape), smells, temperature, sounds, weather, type of plants, stones. Students will also have to literally put their hands in the ground to make a first observation: earthworms? Smell, color? Roots?
 Students will be guided (but not too much) by the application during this process. They will note all their observations.
-<br><i>[45min]</i> The second part of the session is dedicated to the discussion and the formulation of hypotheses. Students discuss with each other and with the teacher by comparing their results. Using the theoretical content provided by the application and the observations made, the students will make assumptions about:
+
+<br><br><i>[45min]</i> The second part of the session is dedicated to the discussion and the formulation of hypotheses. Students discuss with each other and with the teacher by comparing their results. Using the theoretical content provided by the application and the observations made, the students will make assumptions about:
 <br>
 • Why is this land like this?
 <br>• Why does he have this color?
@@ -54,7 +55,7 @@ birds) ?
 <br>• What kinds of insects are present in the earth?
 <br>• What kinds of plants are present and why?
 <br>• What would happen if ...?
-<br>The hypotheses direct the rest of the search. Depending on their interests, students will be able to pursue the study according to three branches / areas of interest: Germination (life cycle), Ecosystem (animals, insects and plants) and Soil structure (composition).
+<br><br>The hypotheses direct the rest of the search. Depending on their interests, students will be able to pursue the study according to three branches / areas of interest: Germination (life cycle), Ecosystem (animals, insects and plants) and Soil structure (composition).
 Students write their assumptions about the application.
 <br>
 <br><u>Session 3, 4, 5 and 6</u><br>
@@ -73,7 +74,7 @@ A test corresponds to a session. After each test, the students must discuss, com
 If students are interested in the land itself, they can move to the "Soil Structure" branch. The tests to be carried out will be the spade test, the flange test and the "Beer Can Test".
 <br>1st test: The spade test is simple, fast and effective. It is simply a case of digging a spade or shovel into the ground about 30 cm deep. Then you have to take out the block of earth and examine it. Several things are worth noting in the app. The number of horizons (different layers of soil), the structure (porous, compact), the size of the aggregates, the difficulty to break these aggregates, the presence or absence of earthworms / roots, etc. Students will then assign a grade from 1 to 5 to the soil sampled on a specific scale (https://www.vd.ch/fileadmin/user_upload/themes/environment/sol/file_pdf/GEO_DE_SOLS_VESS_A_score_chart_EN.pdf). The spade test makes it possible to quickly have a good indication of the health of the soil. The test of the pudding, it is to take a little earth and roll it between his hands, trying to make a pudding. The shape of the pudding will indicate the presence more or less marked clay.
 <br>2nd test: The other test to be carried out in this branch is the "Beer Can test". This protocol makes it possible to determine in a simple but scientific way the degree of porosity of a soil, thanks to an empty can. This will give students valuable insights that they can then use to formulate their next hypotheses.
-<br>• Branch "Germination"<br>
+<br><br>• Branch "Germination"<br>
 This orientation is a bit special, as it will allow students to observe the growth of a plant, and therefore, the life cycle. Indeed, a first very relevant indication of the health of a soil is simply to know if the plants will grow in it. If they do not grow, why? Earth too acidic? Too clay? Too sandy? All these characteristics can be determined through several tests. In this branch, students will first have to bring back a seed and a little soil in the classroom, possibly during the first outing.
 <br>1st test: The pH test is to be done in class. For this test, one of the sessions will be held in class for all students. The purpose of the red cabbage test is to precisely determine the pH of a soil. The protocol to follow can be found at the following address: http://wiki.scienceamusante.net/index.php?title=Jus_de_chou_rouge.
 <br>2nd test: The test of the jar him, allows to obtain the composition of the soil, in percentage of sand, clay and silt, the three components most frequently found in the Swiss grounds. The protocol is available at this address: https://www.youtube.com/watch?v=nx8b80PmNE4.
