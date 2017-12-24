@@ -13,41 +13,19 @@ Authors: **Océane Schaub, Anne-Pia Marty, Loukas Garanis, Marcelo Veloso**
 <center><img src="/images/Logo CS.png" alt=""  width="50%"></center>
 <br>
 
-<b>1. Introduction</b>
-<br>
-<br>
-Each week, the teacher chooses an activity that will last 2 blocks of lessons (2x45 min). Protocols and tests are thought out to be completed in 1 hour, allowing the teacher time to travel to the playground and an introduction to the day.
-The application will be designed so that groups of several students can work at the same time on the same device (tablets or smartphones). Each group will collect a certain number of points by performing different tests and hypotheses. The team with the most points will be awarded a virtual trophy. We hope to keep the playful and
-competitive application.
-We design this application so that the teacher can have a theoretical and practical support at a time, with a red thread between the different parts, so that students can better understand the interest of each tool.
-However, it is also possible for the teacher to use it only once, at any stage of the content, to introduce or exemplify a theme. It is thus possible to juggle between the various protocols and to follow one theme rather than another depending on the interest and knowledge of the students.
-We believe that the best time to start activities would be the beginning of March or April. Indeed, the weather is more ready to go out and this is the moment when the fauna and flora wake up. In addition, this allows teachers to have already addressed some theoretical elements, which will facilitate the execution and understanding of the protocols.
-According to the PER, several topics and skills will be addressed. In science, the ecosystem (plants, insects, animals) and the cycle of life will be introduced and / or deepened. The whole application is based on the system of the scientific approach. Students will be asked to collect, observe, formulate a hypothesis, test this hypothesis, analyze the test results and then draw a conclusion.
-<br>
-<b>2. Training and use of the 5 senses</b>
-<br>
-<br>
-Students will have to improve the use of their senses by making a regular statement on the state of the soil. This analysis will precede the comparison, every week, between the different color changes, the development of the flora and the appearance of the fauna.
-Thus, from the first arrival on the field, students: 
-<br>1) take pictures at different scales;
-<br>From a point of view and a precise framework, allowing the geo-spatial reproduction, the pupil takes:
-<br>• A photo capturing all the terrain,
-<br>• The picture of a tree as a whole,
-<br>• A photo of a particular element (eg a flower, the root of a tree, a
-small or medium-sized stone) and the environment around it, in a circumference of 20 cm.
-<br>2) describe the smell and noise of this place and report on the application;
-<br>3) identify the temperature of the air and the earth, analyze a possible difference;
-<br>4) enter in the application the meteorology of the previous days, informed by the teacher (the natural or human watering of the ground can have an impact on the characteristics of this one during the tests);
-<br>5) reflect on man's use of this space (factory, farm, swamp, castle, dwellings, agriculture, etc.) and its impact on his environment.
+There are some new things cookin' in the CrowdSoil world! Let's go!
 
-<br>
-<center><img src="/images/Screen Shot 2017-12-21 at 17.02.19.png" alt=""  width="80%"></center>
-<br>
+First of all, we had some very promising news from the HEIG-VD. We met with Pr. Jens Ingensand, teacher of Geoinformatics, and he will be proposing our app as a project for his students to code. Hopefully, if a student is interested, we will have a working prototype next semester!
 
-<b>3. Unfolding</b>
+In light of this news, we would like to take the opportunity of this blogpost to introduce you to the school part of our project. Indeed, one of our main target audiences are students aged 10-15. The goal is to organize a 6-session long workshop on soil and biodiversity, during which our app will guide the students through a series of tests and discussions.
+
+We designed this application so that the teacher can have a theoretical and practical support at the same time. However, it is also possible for the teacher to use it only once, at any stage of the workshop, to introduce or exemplify a theme. It is thus possible to juggle between the various protocols and to follow one theme rather than another depending on the interest and knowledge of the students. In science, the ecosystem (plants, insects, animals) and the cycle of life will be introduced and / or deepened. The whole application is based on the system of the scientific approach. Students will be asked to observe, collect data, formulate a hypothesis, test this hypothesis, analyze the test results and then draw a conclusion.
+
+<b>Unfolding</b>
 <br>
 <br>
-The course takes place on 6 sessions of 1h30. Sessions can be daily, weekly, or irregular. Each week, the teacher begins with "In the previous episode ...", a brief reminder of what was done last week and why. This will give a framework and purpose to the experiments. Students can better progress.
+The course takes place on 6 sessions of 1h30. Sessions can be daily, weekly, or irregular. Each week, the teacher begins with "In the previous episode ...", a brief reminder of what was done last week and why. This will refocus students on the framework and purpose of the experiments.
+
 <br>Session 1
 <br>
 This session is theoretical (in class).
