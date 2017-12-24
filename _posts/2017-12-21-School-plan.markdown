@@ -66,7 +66,7 @@ A test corresponds to a session. After each test, the students must discuss, com
 <br>
 <br>• Ecosystem branch
 <br>
-<br><br>1st test: Students can choose between different routes. If students are interested in insects, they may perform a Barber trap (http://biodiversite.ac-clermont.fr/documents/tech_study/barber sampling.pdf) to determine the composition of terrestrial carabidean communities, which are bio-indicators of the state of ecosystems.
+<br>1st test: Students can choose between different routes. If students are interested in insects, they may perform a Barber trap (http://biodiversite.ac-clermont.fr/documents/tech_study/barber sampling.pdf) to determine the composition of terrestrial carabidean communities, which are bio-indicators of the state of ecosystems.
 <br><br>2nd test: If, on the other hand, students are more interested in plants, they can start to identify bio-indicator plants, their number, etc. Spontaneous flora - what are wrongly called "weeds" - is a very good indication of the nature of a field! Simply by agreeing to live there - or not, to be dominant - or very rare, each species is a concentrate of information on the past and present life of a piece of land (https://more.groww.fr/ plants-bio-indicators / and https://www.visoflora.com/index.php?prop201=0&prop4=0&prop6=0&prop7=3&prop8=0 & component = guide & task = identifie & idEG = 59).
 
 <br>• Branch "Soil structure"<br>
@@ -79,5 +79,5 @@ A test corresponds to a session. After each test, the students must discuss, com
 <br><br>2nd test: The test of the jar him, allows to obtain the composition of the soil, in percentage of sand, clay and silt, the three components most frequently found in the Swiss grounds. The protocol is available at this address: https://www.youtube.com/watch?v=nx8b80PmNE4.
 
 <br>
-<center><img src="/images/Arbre déroulement-001.jpg" alt=""  width="80%"></center>
+<center><img src="/images/Arbre déroulement-001.jpg" alt=""  width="100%"></center>
 <br>
