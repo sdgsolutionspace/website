@@ -64,7 +64,7 @@ In order to confirm or refute their hypotheses, students will have to perform on
 <br>
 A test corresponds to a session. After each test, the students must discuss, compare their results, discuss, and formulate hypotheses with the content provided by the application and by the teacher. To test these hypotheses, the application will offer students other protocols that they can try at the next session.
 <br>
-<br>• Ecosystem branch
+<br>• Branch "Ecosystem"
 <br>
 <br>1st test: Students can choose between different routes. If students are interested in insects, they may perform a Barber trap (http://biodiversite.ac-clermont.fr/documents/tech_study/barber sampling.pdf) to determine the composition of terrestrial carabidean communities, which are bio-indicators of the state of ecosystems.
 <br><br>2nd test: If, on the other hand, students are more interested in plants, they can start to identify bio-indicator plants, their number, etc. Spontaneous flora - what are wrongly called "weeds" - is a very good indication of the nature of a field! Simply by agreeing to live there - or not, to be dominant - or very rare, each species is a concentrate of information on the past and present life of a piece of land (https://more.groww.fr/ plants-bio-indicators / and https://www.visoflora.com/index.php?prop201=0&prop4=0&prop6=0&prop7=3&prop8=0 & component = guide & task = identifie & idEG = 59).
