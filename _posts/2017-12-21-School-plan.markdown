@@ -45,8 +45,7 @@ This session represents the first contact with the earth!
 <br><br>
 <i>[45min]</i> The first part is mostly based on observation. This is the first session where students begin to get used to using their senses to analyze the environment: colors (soil, landscape), smells, temperature, sounds, weather, type of plants, stones. Students will also have to literally put their hands in the ground to make a first observation: earthworms? Smell, color? Roots?
 Students will be guided (but not too much) by the application during this process. They will note all their observations.
-
-<br><br><i>[45min]</i> The second part of the session is dedicated to the discussion and the formulation of hypotheses. Students discuss with each other and with the teacher by comparing their results. Using the theoretical content provided by the application and the observations made, the students will make assumptions about:
+<br><i>[45min]</i> The second part of the session is dedicated to the discussion and the formulation of hypotheses. Students discuss with each other and with the teacher by comparing their results. Using the theoretical content provided by the application and the observations made, the students will make assumptions about:
 <br>
 • Why is this land like this?
 <br>• Why does he have this color?
