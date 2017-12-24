@@ -24,22 +24,28 @@ We designed this application so that the teacher can have a theoretical and prac
 <b>Unfolding</b>
 <br>
 <br>
-The course takes place on 6 sessions of 1h30. Sessions can be daily, weekly, or irregular. Each week, the teacher begins with "In the previous episode ...", a brief reminder of what was done last week and why. This will refocus students on the framework and purpose of the experiments.
+The workshop takes place on 6 sessions of 1h30. Sessions can be daily, weekly, or irregular. Each week, the teacher begins with "In the previous episode ...", a brief reminder of what was done last week and why. This will refocus students on the framework and purpose of the experiments.
 
-<br>Session 1
+<br><u>Session 1</u>
+<br>
 <br>
 This session is theoretical (in class).
 <br>
-[45min] The teacher establishes a link between the theory seen during the year and the usefulness of going to the field and putting the hands "to the ground". It is a question here of transmitting to the students in a rather detailed way the historical context of soils (agricultural revolutions, massive use of pesticides, soil destruction, plowing, etc.) in order to initiate a critical reflection related to the need to better understand this area is soils and their biodiversity.
-<br>[45min] After making this link, he introduces the application to students by browsing and showing them a tutorial / video presentation. The students are then divided into 5 groups. Then it would be nice for the teacher to show the plots / land that the students will be studying during the course (the total of 6 weeks). Students can begin to take charge of the application by completing the first part of the study which focuses on the history of the land concerned (place, name of place, if it is the "path of the castle" , there was perhaps a castle at the time, etc.), according to the information given by the professor.
-<br>Session 2<br>
-That's it ! We leave for the field!
 <br>
+<i>[45min]</i> The teacher establishes a link between the theory seen during the year and the usefulness of going to the field and putting the hands "to the ground". It is a question here of transmitting to the students in a rather detailed way the historical context of soils (agricultural revolutions, massive use of pesticides, soil destruction, plowing, etc.) in order to initiate a critical reflection related to the need of better understanding the soil and its biodiversity.
+<br>
+<br>
+<i>[45min]</i> After making this link, he introduces the application to students by browsing and showing them a tutorial / video presentation. The students are then divided into 5 groups. Then it would be nice for the teacher to show the plots / land that the students will be studying during the workshop. Students can begin to use the application by completing the first part of the study which focuses on the history of the land concerned (place, name, if there was perhaps a castle or a plant at the time, etc.), according to the information given by the professor.
+<br>
+<br><u>Session 2</u><br>
+<br>
+That's it! We leave for the field!
+<br><br>
 This session represents the first contact with the earth!
-<br>
-[45min] The first part is mostly based on observation. This is the first session where students begin to get used to using their senses to analyze the environment: colors (soil, landscape), smells, temperature, sounds, weather, type of plants, stones. Students will also have to literally put their hands in the ground to make a first observation: earthworms? Smell, color? Roots?
+<br><br>
+<i>[45min]</i> The first part is mostly based on observation. This is the first session where students begin to get used to using their senses to analyze the environment: colors (soil, landscape), smells, temperature, sounds, weather, type of plants, stones. Students will also have to literally put their hands in the ground to make a first observation: earthworms? Smell, color? Roots?
 Students will be guided (but not too much) by the application during this process. They will note all their observations.
-<br>[45min] The second part of the session is dedicated to the discussion and the formulation of hypotheses. Students discuss with each other and with the teacher by comparing their results. Using the theoretical content provided by the application and the observations made, the students will make assumptions about:
+<br><i>[45min]</i> The second part of the session is dedicated to the discussion and the formulation of hypotheses. Students discuss with each other and with the teacher by comparing their results. Using the theoretical content provided by the application and the observations made, the students will make assumptions about:
 <br>
 • Why is this land like this?
 <br>• Why does he have this color?
@@ -50,10 +56,14 @@ birds) ?
 <br>• What would happen if ...?
 <br>The hypotheses direct the rest of the search. Depending on their interests, students will be able to pursue the study according to three branches / areas of interest: Germination (life cycle), Ecosystem (animals, insects and plants) and Soil structure (composition).
 Students write their assumptions about the application.
-<br>Session 3, 4, 5 and 6<br>
+<br>
+<br><u>Session 3, 4, 5 and 6</u><br>
+<br>
 In order to confirm or refute their hypotheses, students will have to perform one or more protocols (tests). Depending on which branch the students followed, the tests for this session will be different. Of course, students will eventually go through the majority of branches and perform the majority of tests. Indeed, all branches are intrinsically linked; the study of soil and biodiversity must take into account all the different facets of this environment. It is simply a matter of following the interest of the student.
 <br>
+<br>
 A test corresponds to a session. After each test, the students must discuss, compare their results, discuss, and formulate hypotheses with the content provided by the application and by the teacher. To test these hypotheses, the application will offer students other protocols that they can try at the next session.
+<br>
 <br>• Ecosystem branch
 <br>
 <br>1st test: Students can choose between different routes. If students are interested in insects, they may perform a Barber trap (http://biodiversite.ac-clermont.fr/documents/tech_study/barber sampling.pdf) to determine the composition of terrestrial carabidean communities, which are bio-indicators of the state of ecosystems.
