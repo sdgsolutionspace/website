@@ -80,5 +80,5 @@ A test corresponds to a session. After each test, the students must discuss, com
 <br><br>2nd test: The test of the jar him, allows to obtain the composition of the soil, in percentage of sand, clay and silt, the three components most frequently found in the Swiss grounds. The protocol is available at this address: https://www.youtube.com/watch?v=nx8b80PmNE4.
 
 <br>
-<center><img src="/images/Arbre déroulement.pdf" alt=""  width="10%"></center>
+<center><img src="/images/Arbre déroulement-001.jpg" alt=""  width="80%"></center>
 <br>
