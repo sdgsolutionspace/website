@@ -9,6 +9,6 @@ wants_to_learn :
 wants_to_achieve :
 leisure : climbing and outdoor activities
 photo :
-categories: wihds17
+categories: wihds17 students
 lang: en
 ---
