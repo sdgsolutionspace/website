@@ -1,7 +1,7 @@
 ---
 layout: people
-user_id : lgranis
-title: Loukas Granis
+user_id : lgaranis
+title: Loukas Garanis
 nationality: Swiss, Greek
 spoken_languages : French (native), English (fluent), Romanian (convers.), Spanish (basic), Greek (basic), Italian (basic)
 skills : business management
