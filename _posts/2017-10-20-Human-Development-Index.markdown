@@ -4,7 +4,7 @@ title:  "Human Development Index (HDI)"
 teacher : "Jaya Krishnakumar"
 date:   2017-10-20 16:03:04 +0200
 categories: wihds17 lectures
-authors :  lgranis kpolyakova
+authors :  lgaranis kpolyakova
 ---
 
 Authors: **Loukas Garanis, Katerina Polyakova**
