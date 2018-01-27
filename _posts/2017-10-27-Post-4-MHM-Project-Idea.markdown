@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Post 4 MHM: Project Idea"
 date:   2017-10-27 16:03:04 +0200
 categories: wihds17 projects mhm_musketeers

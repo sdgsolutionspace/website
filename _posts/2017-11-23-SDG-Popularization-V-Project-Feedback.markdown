@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "SDG Popularization V: Presentation Feedback"
 date:   2017-11-23 16:04:04 +0200
 categories: wihds17 projects sdgpop

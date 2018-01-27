@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Post 3 MHM: Data Scheme"
 date:   2017-10-20 16:03:04 +0200
 categories: wihds17 projects mhm_musketeers

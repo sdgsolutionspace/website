@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Blockchain Technology Concepts, Challenges and Opportunities"
 teacher : "Jean-Henry Morin"
 date:   2017-10-05 16:03:04 +0200

@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "SDG Solution Space"
 date:   2017-12-20 16:03:04 +0200
 categories: wihds17 lectures

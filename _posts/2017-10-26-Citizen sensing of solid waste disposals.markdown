@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Citizen sensing of solid waste (SW) disposals:crowdsourcing as tool supporting waste management in a developing country"
 date:   2017-10-26 16:03:04 +0200
 categories: wihds17 lectures

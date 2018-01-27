@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Why there is a need to measure air pollution exposure on a personal scale in Switzerland"
 date:   2017-12-01 16:03:04 +0200
 categories: wihds17 projects airmaia

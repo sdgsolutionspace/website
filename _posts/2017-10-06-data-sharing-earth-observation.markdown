@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Data sharing and Earth Observation Workshop"
 teacher : "Gregory Giuliani"
 date:   2017-10-06 16:03:04 +0200

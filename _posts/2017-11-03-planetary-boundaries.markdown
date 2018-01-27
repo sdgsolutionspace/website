@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Planetary Boundaries (Pascal Peduzzi)"
 date:   2017-11-03 16:03:04 +0200
 categories: wihds17 lectures

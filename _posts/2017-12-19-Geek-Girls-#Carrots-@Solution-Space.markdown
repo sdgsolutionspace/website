@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Geek Girls #Carrots @Solution Space"
 date:   2017-12-19 19:20:04 +0200
 categories: wihds17 lectures 

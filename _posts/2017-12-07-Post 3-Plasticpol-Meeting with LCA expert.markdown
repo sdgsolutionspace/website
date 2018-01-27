@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Plastic Pollution: meeting with LCA expert"
 date:   2017-12-07 16:03:04 +0200
 categories: wihds17 projects plasticpol

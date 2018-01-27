@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Post 9 MHM: Interviews Part 2"
 date:   2017-12-01 16:03:04 +0200
 categories: wihds17 projects mhm_musketeers

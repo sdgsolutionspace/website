@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "SDG Popularization VII: The Videos Series "
 date:   2017-12-13 16:20:04 +0200
 categories: wihds17 projects sdgpop

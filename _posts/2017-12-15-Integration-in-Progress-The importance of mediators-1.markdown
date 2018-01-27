@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Integration in Progress - The importance of Mediators "
 date:   2017-12-15 16:03:04 +0200
 categories: wihds17 projects iinprogress

@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Integration In Progress: How to create a free website without knowing coding?"
 date:   2017-12-21 16:03:04 +0200
 project : "Integration In Progress"

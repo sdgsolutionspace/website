@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "The Portable sensor LaserEgg and Geneva cantonal sensor stations"
 date:   2017-12-01 16:04:04 +0200
 categories: wihds17 projects airmaia

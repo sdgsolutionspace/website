@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "SDG Lab Geneva Ecosystem Update"
 date:   2017-12-04 13:03:01 +0200
 categories: wihds17

@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Integration in Progress - Feedback "
 date:   2017-12-01 16:03:04 +0200
 categories: wihds17 projects iinprogress

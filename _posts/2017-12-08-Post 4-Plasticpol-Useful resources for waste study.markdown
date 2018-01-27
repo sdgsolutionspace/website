@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Plastic Pollution: useful resources for waste study"
 date:   2017-12-08 16:03:04 +0200
 categories: wihds17 projects plasticpol

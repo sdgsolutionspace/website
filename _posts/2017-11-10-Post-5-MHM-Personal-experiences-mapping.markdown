@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Post 5 MHM: Personal experiences mapping"
 date:   2017-11-10 16:03:04 +0200
 categories: wihds17 projects mhm_musketeers

@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Post 2 MHM: 5 reasons why you should care about good MHM"
 date:   2017-10-13 12:40:04 +0200
 categories: wihds17 projects mhm_musketeers

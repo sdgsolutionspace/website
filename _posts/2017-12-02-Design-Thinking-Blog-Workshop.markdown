@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Design Thinking Workshop-Giorgio Pauletto"
 date:   2017-12-02 16:03:04 +0200
 categories: wihds17 lectures

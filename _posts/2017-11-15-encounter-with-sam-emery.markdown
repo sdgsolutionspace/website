@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "CrowdSoil: Encounter with Samuel Emery from (HEPIA)"
 date:   2017-11-15 16:03:04 +0200
 categories: wihds17 projects crowdsoil

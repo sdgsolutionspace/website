@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "CrowdSoil: halfway update"
 date:   2017-11-30 11:03:04 +0200
 project : CrowdSoil

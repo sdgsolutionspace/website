@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Indicators Systems"
 date:   2017-10-27 12:40:04 +0200
 categories: wihds17 lectures

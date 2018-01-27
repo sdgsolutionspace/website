@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Moment of air quality visibility and Go compare!"
 date:   2017-12-01 16:05:04 +0200
 categories: wihds17 projects airmaia

@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Human Development Index (HDI)"
 teacher : "Jaya Krishnakumar"
 date:   2017-10-20 16:03:04 +0200

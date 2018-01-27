@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "CrowdSoil: testing heavy metals, ideas and limitations"
 date:   2017-12-21 11:03:04 +0200
 project : CrowdSoil

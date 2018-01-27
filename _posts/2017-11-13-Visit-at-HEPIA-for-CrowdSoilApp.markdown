@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "CrowdSoil: Demonstration of the Spade Test at HEPIA"
 date:   2017-11-13 16:03:04 +0200
 project : CrowdSoil

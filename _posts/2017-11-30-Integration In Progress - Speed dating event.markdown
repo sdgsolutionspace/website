@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Integration In Progress - Speed dating event in Carouge"
 date:   2017-11-30 16:03:04 +0200
 project : "Integration In Progress"

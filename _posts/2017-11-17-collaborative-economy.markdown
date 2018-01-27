@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "CrowdSoil: Conference “Toward a collaborative, social, solidary and ecological economy”"
 date:   2017-11-17 16:03:04 +0200
 categories: wihds17 projects crowdsoil

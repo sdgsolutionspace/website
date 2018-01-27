@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Integration in Progress: Hackathon"
 date:   2017-12-06 21:30:04 +0200
 categories: wihds17 projects iinprogress

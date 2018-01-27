@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "SDG Popularization VI: 10 questions under 10 "
 date:   2017-12-12 16:03:04 +0200
 categories: wihds17 projects sdgpop

@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "Plastic Pollution:How does GPS tracker work"
 date:   2017-12-21 12:00:04 +0200
 categories: wihds17 projects plasticpol

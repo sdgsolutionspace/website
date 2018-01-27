@@ -1,5 +1,7 @@
 ---
 layout: post
+lang : en
+ref: home
 title:  "B lab: An Historic Global Culture Shift"
 date:   2017-12-08 16:03:04 +0200
 categories: wihds17 lectures
