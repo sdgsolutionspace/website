@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: SDG Solution Space
-email: hello@sdgsolspace.org
+email: hello@sdgsolutionspace.org
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sdgsolutionspace.org" # the base hostname & protocol for your site
