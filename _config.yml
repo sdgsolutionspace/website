@@ -57,7 +57,7 @@ t:
     home:
       name: "Home"
       url: "/"
-      display : false
+      display : true
     news:
       name: "News"
       url: "/news/"
@@ -65,7 +65,7 @@ t:
     events :
       name: "Events"
       url: "/events/"
-      display : false
+      display : true
 
     people:
       name: "People"
@@ -75,7 +75,6 @@ t:
       name: "Projects"
       url: "/projects/"
       display : true
-
 
     education :
       name: "Education"
