@@ -48,7 +48,7 @@ collections:
   projects:
     output : true
   events :
-    output : true
+    output : false
 
 
 # translation dictionary
