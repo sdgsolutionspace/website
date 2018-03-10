@@ -1,9 +1,9 @@
 ---
 layout: events
-title: future event with URL
+title: future event without url_address
 starts : 2018-03-30 14:00:00 +0100
 ends : 2018-03-30 15:00:00 +0100
-url_address: http://google.com
+url_address:
 lang: en
 tags: sdg32
 ---
