@@ -13,7 +13,7 @@ Please note that until the end of June 2018, the SDG Solution Space is available
 If you are interested in organizing an event at the SDG Solution Space, please fill-in this [form](https://docs.google.com/forms/d/e/1FAIpQLScQVAmSmWTn9zzS5PFLq-tqiIK6JpdDYKAx_dD3zHlU-6Ec5g/viewform?usp=sf_link).
 We will answer you on a best-effort basis, please be patient.
 
-## ongoing
+## Ongoing events
 
 {% for p in site.events %}
   {% if p.layout == page.title and p.starts < site.time and p.ends > site.time %}
@@ -31,15 +31,15 @@ We will answer you on a best-effort basis, please be patient.
 
 
 
-## upcoming events
+## Upcoming events
 
 {% for p in site.events %}
   {% if p.layout == page.title and p.starts > site.time %}
-<p><h4>{{ p.starts | remove: "+0100" | remove: "+0200" | replace_first: ':00', '' }}</h4></p>
+<p>{{ p.starts | remove: "+0100" | remove: "+0200" | replace_first: ':00', '' }}
 	{% if {{p.url_address | size }} != 0  %}
-<p><a href="{{p.url_address}}">{{p.title}}</a></p>
+<a href="{{p.url_address}}">{{p.title}}</a></p>
 	{% else %}
-<p>{{p.title}}</p>
+{{p.title}}</p>
 	{% endif %}
       {% if post.excerpt %}
           {{ post.excerpt }}
@@ -48,7 +48,7 @@ We will answer you on a best-effort basis, please be patient.
 {% endfor %}
 
 
-## past events
+## Past events
 
 {% for p in site.events %}
   {% if p.layout == page.title and p.ends < site.time %}
