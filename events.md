@@ -8,9 +8,10 @@ permalink: /events/
 
 **Current Time (Geneva):** {{site.time | date: '%Y.%m.%d, %H:%M' }}
 
-If you are interested in organizing an event at the SDG Solution Space, please fill-in this [form](https://docs.google.com/forms/d/e/1FAIpQLScQVAmSmWTn9zzS5PFLq-tqiIK6JpdDYKAx_dD3zHlU-6Ec5g/viewform?usp=sf_link).
+Please note that until the end of June 2018, the SDG Solution Space is available for booking on Mondays and Wednesdays full days, and on Tuesdays, Thursdays and Fridays from 6PM. 
 
-We will answer you as soon as possible.
+If you are interested in organizing an event at the SDG Solution Space, please fill-in this [form](https://docs.google.com/forms/d/e/1FAIpQLScQVAmSmWTn9zzS5PFLq-tqiIK6JpdDYKAx_dD3zHlU-6Ec5g/viewform?usp=sf_link).
+We will answer you on a best-effort basis, please be patient.
 
 ## ongoing
 
