@@ -19,9 +19,9 @@ We will answer you on a best-effort basis, please be patient.
   {% if p.layout == page.title and p.starts < site.time and p.ends > site.time %}
 <p>{{ p.starts | remove: "+0100" | remove: "+0200" | replace_first: ':00', '' }} - {{ p.ends | remove: "+0100" | remove: "+0200" | replace_first: ':00', '' | slice: 11, 16 | append: ' : ' }}
 	{% if {{p.url_address | size }} != 0  %}
-<a href="{{p.url_address}}">{{p.title}}</a></p>
+<a href="{{p.url_address}}">{{p.title | truncatewords: 6 }}</a></p>
 	{% else %}
-{{p.title}}</p>
+{{p.title | truncatewords: 6 }}</p>
 	{% endif %}
     {% if post.excerpt %}
         {{ post.excerpt }}
@@ -30,16 +30,15 @@ We will answer you on a best-effort basis, please be patient.
 {% endfor %}
 
 
-
 ## Upcoming events
 
 {% for p in site.events %}
   {% if p.layout == page.title and p.starts > site.time %}
 <p>{{ p.starts | remove: "+0100" | remove: "+0200" | replace_first: ':00', '' }} - {{ p.ends | remove: "+0100" | remove: "+0200" | replace_first: ':00', '' | slice: 11, 16 | append: ' : ' }}
 	{% if {{p.url_address | size }} != 0  %}
-<a href="{{p.url_address}}">{{p.title}}</a></p>
+<a href="{{p.url_address}}">{{p.title | truncatewords: 6 }}</a></p>
 	{% else %}
-{{p.title}}</p>
+{{p.title | truncatewords: 6 }}</p>
 	{% endif %}
       {% if post.excerpt %}
           {{ post.excerpt }}
@@ -54,9 +53,9 @@ We will answer you on a best-effort basis, please be patient.
   {% if p.layout == page.title and p.ends < site.time %}
 <p>{{ p.starts | remove: "+0100" | remove: "+0200" | replace_first: ':00', '' }} - {{ p.ends | remove: "+0100" | remove: "+0200" | replace_first: ':00', '' | slice: 11, 16 | append: ' : ' }}
 	{% if {{p.url_address | size }} != 0  %}
-<a href="{{p.url_address}}">{{p.title}}</a></p>
+<a href="{{p.url_address}}">{{p.title | truncatewords: 6 }}</a></p>
 	{% else %}
-{{p.title}}</p>
+{{p.title | truncatewords: 6 }}</p>
 	{% endif %}
 	{%if p.description and p.description != blank %}{{p.description}}
 	{% endif %}
