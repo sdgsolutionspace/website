@@ -48,7 +48,7 @@ collections:
   projects:
     output : true
   events :
-    output : false
+    output : true
 
 
 # translation dictionary
@@ -65,7 +65,7 @@ t:
     events :
       name: "Events"
       url: "/events/"
-      display : false
+      display : true
 
     people:
       name: "People"

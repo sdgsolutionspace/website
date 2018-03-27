@@ -10,5 +10,5 @@ wants_to_achieve :
 leisure :
 photo :
 categories: wihds17 students
-lang: en
+lang: en, fr
 ---
