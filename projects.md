@@ -11,4 +11,5 @@ permalink: /projects/
 {% for item in site.projects %}
 <!--- <h4><a href="{{item.url}}">{{ item.title}}</a></h4> -->
 <p><h4><a href="{{item.url}}">{{ item.title}}</a></h4></p>
+{{ item.excerpt }}
 {% endfor %}
