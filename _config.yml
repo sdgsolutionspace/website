@@ -75,7 +75,10 @@ t:
       name: "Projects"
       url: "/projects/"
       display : true
-
+    fablab :
+      name: "Fablab"
+      url: "/fablab/"
+      display : false
     education :
       name: "Education"
       url: "/education/"
