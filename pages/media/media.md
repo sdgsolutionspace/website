@@ -9,9 +9,11 @@ permalink: /media/
 
 # Media Response
 
-<a href="http://www.lemonde.fr/campus/article/2018/04/20/un-master-sino-suisse-pour-former-les-acteurs-du-developpement-durable_5288057_4401467.html"  target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thimb/4/43/Le_Monde.svg/500px-Le_Monde.svg.png" width="20%"></a>
+<a href="http://www.lemonde.fr/campus/article/2018/04/20/un-master-sino-suisse-pour-former-les-acteurs-du-developpement-durable_5288057_4401467.html"  target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Le_Monde.svg/500px-Le_Monde.svg.png" width="20%"></a>
 
-**<a href = "http://www.lemonde.fr/campus/article/2018/04/20/un-master-sino-suisse-pour-former-les-acteurs-du-developpement-durable_5288057_4401467.html">Le Monde Campus: Un master-sino-suisse pour former les acteurs du développement durable</a>** (20th April 2018)
+**<a href = "http://www.lemonde.fr/campus/article/2018/04/20/un-master-sino-suisse-pour-former-les-acteurs-du-developpement-durable_5288057_4401467.html">Un master sino-suisse pour former les acteurs du développement durable</a>** (20th April 2018)
+
+<br>
 
 <a href="http://www.lemanbleu.ch/replay/video.html?VideoID=33567" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Lemanbleu.jpg" width="20%"></a>
 
