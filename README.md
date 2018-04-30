@@ -1,90 +1,41 @@
-# minima
+# SDG Solution Space Website
 
-*Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.
-
-![minima theme preview](/screenshot.png)
-
-## Installation
-
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "minima"
-```
-
-And add this line to your Jekyll site:
-
-```yaml
-theme: minima
-```
-
-And then execute:
-
-    $ bundle
-    
-
-## Usage
-
-### Customization
-
-To override the default structure and style of minima, simply create the concerned directory at the root of your site, copy the file you wish to customize to that directory, and then edit the file.
-e.g., to override the [`_includes/head.html `](_includes/head.html) file to specify a custom style path, create an `_includes` directory, copy `_includes/head.html` from minima gem folder to `<yoursite>/_includes` and start editing that file.
-
-The site's default CSS has now moved to a new place within the gem itself, [`assets/main.scss`](assets/main.scss). To **override the default CSS**, the file has to exist at your site source. Do either of the following:
-- Create a new instance of `main.scss` at site source.
-  - Create a new file `main.scss` at `<your-site>/assets/`
-  - Add the frontmatter dashes, and
-  - Add `@import "minima";`, to `<your-site>/assets/main.scss`
-  - Add your custom CSS.
-- Download the file from this repo
-  - Create  a new file `main.scss` at `<your-site>/assets/`
-  - Copy the contents at [assets/main.scss](assets/main.scss) onto the `main.scss` you just created, and edit away!
-- Copy directly from Minima 2.0 gem
-  - Go to your local minima gem installation directory ( run `bundle show minima` to get the path to it ).
-  - Copy the `assets/` folder from there into the root of `<your-site>`
-  - Change whatever values you want, inside `<your-site>/assets/main.scss`
-
---
-
-### Enabling comments (via Disqus)
-
-Optionally, if you have a Disqus account, you can tell Jekyll to use it to show a comments section below each post.
-
-To enable it, add the following lines to your Jekyll site:
-
-```yaml
-  disqus:
-    shortname: my_disqus_shortname
-```
-
-You can find out more about Disqus' shortnames [here](https://help.disqus.com/customer/portal/articles/466208).
-
-Comments are enabled by default and will only appear in production, i.e., `JEKYLL_ENV=production`
-
-If you don't want to display comments for a particular post you can disable them by adding `comments: false` to that post's YAML Front Matter.
-
---
-
-### Enabling Google Analytics
-
-To enable Google Anaytics, add the following lines to your Jekyll site:
-
-```yaml
-  google_analytics: UA-NNNNNNNN-N
-```
-
-Google Analytics will only appear in production, i.e., `JEKYLL_ENV=production`
+## About
+This repository contains the website, sitting at http://www.sdgsolutionspace.org, that serves as a window into the Master in Innovation, Human Development  and Sustainability of the University of Geneva, as well as a repository for anything that happen, or is created, at the SDG Solution Space.
 
 ## Contributing
+You may be reading this document because you were asked to contribute to this website as a documentation for your project or event, or for any other reason, anyway, you're here to learn how to do what you want to do on this website.
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/jekyll/minima. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Basically, this place is running on Jekyll, and the main thing you need to know is how to write a document using the markdown syntax, and then uploading this document to this repository.
 
-## Development
+### Writing posts
+For the markdown part, there's a nice tutorial [here](https://blog.ghost.org/markdown/). For those who maybe more familiar with the concept of markup languages, here's a quick [cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/), with the associated [markdown code](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
 
-To set up your environment to develop this theme, run `bundle install`.
+Here's an [example](https://github.com/sdgsolutionspace/website/blob/master/_posts/Fall17Workshop/2017-12-20-SDG-Solution-Space.markdown) of a nicely written post about the SDG Solution Space.
 
-To test your theme, run `bundle exec rake preview` and open your browser at `http://localhost:4000/minima/`. This starts a Jekyll server using your theme and the contents of the `example/` directory. As you make modifications to your theme and to the example site, your site will regenerate and you should see the changes in the browser after a refresh.
+Here's the actual [code](https://raw.githubusercontent.com/sdgsolutionspace/website/master/_posts/Fall17Workshop/2017-12-20-SDG-Solution-Space.markdown) behind it. 
 
-## License
+Please note the header:
+```jekyll
+---
+layout: post
+lang : en
+ref: home
+title:  "SDG Solution Space"
+date:   2017-12-20 16:03:04 +0200
+categories: wihds17 lectures
+authors : esheene
+---
+```
+Note the date and title, that you should indeed update. About categories, that could be 'events' or 'fablab', for example.
+Now, about the authors, please put your pseudonym if you are in the website's "people" page, or your actual name, in quotes, if you're not.
 
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+### Uploading posts
+
+Now that your post is all written and ready to be uploaded, there are two ways you can take. If you're familiar with this website, or if you received specific consigns about what to do with your post, just do that. 
+
+Else, provided you already have a github account set up and given upload rights, just go to the '\_posts/TODO' directory, and click 'Create new file' or 'Upload files', depending whether you want to write your document online, or drag-and-drop it from your computer.
+
+## Help/Support
+
+Issues? Questions? Being lost? Just write us @ hello@sdgsolutionspace.org 
