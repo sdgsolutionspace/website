@@ -25,6 +25,8 @@ We will answer you on a best-effort basis, please be patient.
 	{% else %}
 {{p.title | truncatewords: 6 }}</p>
 	{% endif %}
+	{%if p.description and p.description != blank %}{{p.description}}
+	{% endif %}
     {% if post.excerpt %}
         {{ post.excerpt }}
     {% endif %}
@@ -41,6 +43,8 @@ We will answer you on a best-effort basis, please be patient.
 <a href="{{p.url_address}}">{{p.title | truncatewords: 6 }}</a></p>
 	{% else %}
 {{p.title | truncatewords: 6 }}</p>
+	{% endif %}
+	{%if p.description and p.description != blank %}{{p.description}}
 	{% endif %}
       {% if post.excerpt %}
           {{ post.excerpt }}
