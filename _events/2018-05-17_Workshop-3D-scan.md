@@ -1,6 +1,6 @@
 ---
 layout: events
-title: Workshop: 3D scan for Design, Industry and Health
+title: Workshop - 3D scan for Design, Industry and Health
 starts : 2018-05-17 18:00:00 +0200
 ends : 2018-05-17 21:00:00 +0200
 logo :
