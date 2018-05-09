@@ -10,6 +10,7 @@ permalink: /events/
 
 Please note that until the end of June 2018, the SDG Solution Space is available for booking on Mondays and Wednesdays full days, and on Tuesdays, Thursdays and Fridays from 6PM.
 
+Please also know that the SDG Solution Space will be undergoing renovations. Booking is possible, but please consider that we will not be able to confirm availability until the renovation schedule is firm.
 If you are interested in organizing an event at the SDG Solution Space, please fill-in this [form](https://docs.google.com/forms/d/e/1FAIpQLScQVAmSmWTn9zzS5PFLq-tqiIK6JpdDYKAx_dD3zHlU-6Ec5g/viewform?usp=sf_link).
 
 Please understand that filling the form brings no guarantee the SDG Solution Space will be available for your event, even in case of prior contact.
