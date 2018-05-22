@@ -4,12 +4,12 @@ The purpose of this 3D design is to create a holder for GoPro which can be fixed
 
 Using Tinkercad.com you can create very quickly the 4 different parts wee need for this holder.
 
-![RingPart1](../GoProHolder/images/RingPart1.png)
+With a simple Clic on the following links you should be able to visualize or download STL which allow you to print
 
-![RingPart2](../GoProHolder/images/RingPart2.png)
+https://github.com/sdgsolutionspace/website/blob/master/_posts/FabLab/GoProHolder/files/RingPart1.stl
 
-![SupportGoproRotule1](../GoProHolder/images/supportGoproRotule1.png)
+https://github.com/sdgsolutionspace/website/blob/master/_posts/FabLab/GoProHolder/files/RingPart2.stl
 
-![SupportGoproRotule2](../GoProHolder/images/supportGoproRotule2.png)
+https://github.com/sdgsolutionspace/website/blob/master/_posts/FabLab/GoProHolder/files/SupportEcrou3%20.stl
 
-![Molette](../GoProHolder/images/molette.png)
+https://github.com/sdgsolutionspace/website/blob/master/_posts/FabLab/GoProHolder/files/SupportGoproRotule.stl
