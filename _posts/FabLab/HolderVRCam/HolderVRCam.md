@@ -21,5 +21,6 @@ The idea is to create this missing part between the top screw of the tripop and 
 
 As the design is really simple, I am using Tinkercad.com to draw the part between the screw and the support.
 
+With a simple Clic on the following link you should be able to visualize or/and  download STL which allow you to print the part.
 https://github.com/sdgsolutionspace/website/blob/master/_posts/FabLab/HolderVRCam/files/Support4VR_System.stl
 
