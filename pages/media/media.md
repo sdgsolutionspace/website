@@ -10,12 +10,12 @@ permalink: /media/
 # Media Response
 
 
-<a href="https://www.rts.ch/play/tv/19h30/video/hackatons-quand-le-bricolage-vole-au-secours-des-handicapes---?id=9486214" target="_blank"><img src="" width="20%"></a>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Radio_T%C3%A9l%C3%A9vision_Suisse_2011_logo.svg/500px-Radio_T%C3%A9l%C3%A9vision_Suisse_2011_logo.svg.png" width="20%">
+<a href="https://www.rts.ch/play/tv/19h30/video/hackatons-quand-le-bricolage-vole-au-secours-des-handicapes---?id=9486214" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Radio_T%C3%A9l%C3%A9vision_Suisse_2011_logo.svg/500px-Radio_T%C3%A9l%C3%A9vision_Suisse_2011_logo.svg.png" width="20%"></a>
 
 
-**<a href="https://www.rts.ch/play/tv/19h30/video/hackatons-quand-le-bricolage-vole-au-secours-des-handicapes---?id=9486214"  target="_blank">Hackatons: quand le bricolage vole au secours des handicapés** (14th April 2018)</a>
+
+
+**<a href="https://www.rts.ch/play/tv/19h30/video/hackatons-quand-le-bricolage-vole-au-secours-des-handicapes---?id=9486214"  target="_blank">Hackatons: quand le bricolage vole au secours des handicapés</a>** (14th April 2018)
 
 <br>
 
