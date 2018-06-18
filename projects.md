@@ -6,7 +6,7 @@ ref: projects
 permalink: /projects/
 ---
 
-## Projects
+## Projects at SDG Solution Space
 
 {% for item in site.projects %}
 <!--- <h4><a href="{{item.url}}">{{ item.title}}</a></h4> -->
