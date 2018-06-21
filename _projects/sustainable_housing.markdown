@@ -9,8 +9,11 @@ lang: en
 
 **by Benjamin Schmale**
 
-Sustainability is arguable one of the greatest problems that humanity faces. The UN certainly thinks so, as evidenced by their Sustainable Development Goals (SDG). Sustainability is defined as “meeting the needs of the present without compromising the ability of future generations to meet their own needs”.
-My project aims to solve some of these issues; by creating a self-sustaining house, I am addressing at least four of the SDGs. A house which is sustainable needs to be accessible to a good portion of citizens, needs to use clean, renewable energy and with long lasting, durable building materials. These four SDGs are: 
+Sustainability is arguable one of the greatest problems that humanity faces. The UN certainly thinks so, as evidenced by their Sustainable Development Goals (SDG). Sustainability is defined as “meeting the needs of the present without compromising the ability of future generations to meet their own needs”. My project aims to solve some of these issues; by creating a self-sustaining house, I am addressing at least four of the SDGs. 
+
+<!--more-->
+
+A house which is sustainable needs to be accessible to a good portion of citizens, needs to use clean, renewable energy and with long lasting, durable building materials. These four SDGs are: 
 * N°7  (Affordable and Clean Energy)
 * N°11 (Sustainable cities and communities)
 * N°12  (Responsible consumption and production)
