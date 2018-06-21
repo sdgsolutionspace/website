@@ -10,18 +10,16 @@ permalink: /media/
 # Media Response
 
 
-<a href="https://www.rts.ch/play/tv/19h30/video/hackatons-quand-le-bricolage-vole-au-secours-des-handicapes---?id=9486214" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Radio_T%C3%A9l%C3%A9vision_Suisse_2011_logo.svg/500px-Radio_T%C3%A9l%C3%A9vision_Suisse_2011_logo.svg.png" width="20%"></a>
-
-
-
-
-**<a href="https://www.rts.ch/play/tv/19h30/video/hackatons-quand-le-bricolage-vole-au-secours-des-handicapes---?id=9486214"  target="_blank">Hackatons: quand le bricolage vole au secours des handicapés</a>** (14th April 2018)
-
-<br>
-
 <a href="http://www.lemonde.fr/campus/article/2018/04/20/un-master-sino-suisse-pour-former-les-acteurs-du-developpement-durable_5288057_4401467.html"  target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Le_Monde.svg/500px-Le_Monde.svg.png" width="20%"></a>
 
 **<a href = "http://www.lemonde.fr/campus/article/2018/04/20/un-master-sino-suisse-pour-former-les-acteurs-du-developpement-durable_5288057_4401467.html">Un master sino-suisse pour former les acteurs du développement durable</a>** (20th April 2018)
+
+<br>
+
+<a href="https://www.rts.ch/play/tv/19h30/video/hackatons-quand-le-bricolage-vole-au-secours-des-handicapes---?id=9486214" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Radio_T%C3%A9l%C3%A9vision_Suisse_2011_logo.svg/500px-Radio_T%C3%A9l%C3%A9vision_Suisse_2011_logo.svg.png" width="20%"></a>
+
+
+**<a href="https://www.rts.ch/play/tv/19h30/video/hackatons-quand-le-bricolage-vole-au-secours-des-handicapes---?id=9486214"  target="_blank">Hackatons: quand le bricolage vole au secours des handicapés</a>** (14th April 2018)
 
 <br>
 
