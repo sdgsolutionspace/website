@@ -6,9 +6,9 @@ ref: people
 permalink: /people/
 ---
 
-## SDG Solution Space People
+## People
 
-### **Students**
+### **Master of Innovation, Human Development and Sustainability**
 
 {% for item in site.people %}
 <!--- <h4><a href="{{item.url}}">{{ item.title}}</a></h4> -->
@@ -16,6 +16,18 @@ permalink: /people/
 {% if cat == "students" %}<p><h4><a href="{{item.url}}">{{ item.title}}</a></h4></p>{% endif %}
 {% endfor %}
 {% endfor %}
+
+
+<br>
+### **High School Students**
+
+{% for item in site.people %}
+<!--- <h4></h4> -->
+{% for cat in item.categories %}
+{% if cat == "highschoolers" %}<p><h4><a href="{{item.url}}">{{ item.title}}</a></h4></p>{% endif %}
+{% endfor %}
+{% endfor %}
+
 
 <br>
 ### **Teachers**
