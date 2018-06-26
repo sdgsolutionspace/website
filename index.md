@@ -11,6 +11,8 @@ permalink : /
 
 ## Hello readers!
 
+{% include_relative test_module/README.md %}
+
 **Featured from original post [by Emily Sheene](virtual_sdgsolutionspace)**
 
 You’ve found yourself at the virtual SDG Solution Space, welcome! While this is a space we are all quite proud of and using as a home base to share about our projects, I thought it would also be cool if you could have a peek at what the brick and mortar SDG Solution Space looks like.
