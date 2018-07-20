@@ -11,7 +11,6 @@ permalink : /
 
 ## Hello readers!
 
-{% include_relative test_module/README.md %}
 
 **Featured from original post [by Emily Sheene](virtual_sdgsolutionspace)**
 
