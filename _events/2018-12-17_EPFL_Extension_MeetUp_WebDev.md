@@ -1,8 +1,8 @@
 ---
 layout: events
 title: EPFL Extension MeetUp WebDev
-starts : 2018-09-17 11:30:00 +0200
-ends : 2018-09-17 14:00:00 +0200
+starts : 2018-12-17 11:30:00 +0200
+ends : 2018-12-17 14:00:00 +0200
 url_address:
 lang: en
 description: |
