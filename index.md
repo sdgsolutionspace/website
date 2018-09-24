@@ -78,9 +78,6 @@ Specifically in the FabLab you can find:
 
      * Can use many materials with this machine
 
-* Big CNC Machine (ShopbotCNC  96 + 48)  will be arriving soon:
-  * Used for molding, to make furniture and other large items
-  * Can use materials like wood, MDF and aluminium
 
 * 3D Scanner
 
